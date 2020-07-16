@@ -1,2 +1,2 @@
 # After-Hours-Minecraft-Server
-Refer to the project tabs of the repo
+Refer to the projects tab of the repo
