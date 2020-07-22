@@ -1,0 +1,36 @@
+{
+  "main:main/dragon_drops_elytra": {
+    "criteria": {
+      "tick": "2020-02-19 17:59:53 +0000"
+    },
+    "done": true
+  },
+  "main:main/mmh": {
+    "criteria": {
+      "tick": "2020-02-19 17:59:53 +0000"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-02-19 17:59:53 +0000"
+    },
+    "done": true
+  },
+  "main:main/player_head_drops": {
+    "criteria": {
+      "tick": "2020-02-19 17:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-02-19 17:59:53 +0000",
+      "minecraft:mountains": "2020-02-19 18:00:25 +0000",
+      "minecraft:river": "2020-02-19 18:00:22 +0000",
+      "minecraft:wooded_mountains": "2020-02-20 15:42:39 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}
