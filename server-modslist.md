@@ -50,6 +50,8 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 * [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper-fabric) - Feather falling enchantments no longer trample crops.
 * [Paradox Slabs](https://modrinth.com/mod/paradox-slabs) - Allows only cutting half of a slab, not the full slab block.
 * [Splash Concrete](https://www.curseforge.com/minecraft/mc-mods/splash-concrete) - Concrete can be made by using splash water bottles.
+* [Whose Pet is This?](https://www.curseforge.com/minecraft/mc-mods/whose-pet-is-this) - Figure out who is the owner of the pet you're looking at. Most likely Ducksquack's.
+*
 
 ## Gameplay features
 * [Universial Graves](https://modrinth.com/mod/universal-graves) - Players drop graves where they died.
@@ -59,7 +61,8 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 * [FabricSit](https://modrinth.com/mod/sit) - Enables sitting on slabs and stairs, like chairs.
 * [Vanessence](https://modrinth.com/mod/vanessence) - Random tweaks, such as more active villager restocking and balanced beacon boosts depending on material.
 * [Lapis Warps](https://www.curseforge.com/minecraft/mc-mods/lapis-warps) - Physical teleporters to locations.
-* 
+* [Anvil Crushing Recipes](https://www.curseforge.com/minecraft/mc-mods/anvil-crushing-recipes) - Anvils now crush whatever block they smash onto.
 
 ## Cosmetic
 * [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition. (Installable clientside)
+* [Rich Chat](https://github.com/Ashley1227/rich-chat) - Markdown formatting for Minecraft.
