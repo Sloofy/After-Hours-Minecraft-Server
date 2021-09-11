@@ -26,13 +26,24 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 ## System administration
 * [LuckPerms](https://github.com/lucko/LuckPerms) - Management of server permissions.
 * [ModUpdater](https://www.curseforge.com/minecraft/mc-mods/modupdater) - Come on, do I need to explain this one?
+* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - In-game Minecraft map editor.
 * [CheaterDeleter](https://github.com/CoolMineman/CheaterDeleter) - Anti-cheat.
 * [Anonymize](https://github.com/NucleoidMC/anonymize/releases/) - Strip player IP addresses from logs.
 
 ## QOL
 * [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes) - More sensible ratios of crafting stairs and trapdoors.
+* [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) - Couple the usage of doors, fence gates, and trapdoors. (Installable clientside)
+* [SimplerHarvest](https://www.curseforge.com/minecraft/mc-mods/simplerharvest/) - Right-click to harvest. (Installable clientside)
+* [Better Signs & Frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames) - More intuitive signs, like text editing and accessing chests hidden by signs. 
+* [Suitably Stackable Stew](https://www.curseforge.com/minecraft/mc-mods/suitably-stackable-stew) - Stew items stack up to 16 now.
+* [Monsters in the Closet](https://modrinth.com/mod/monsters-in-the-closet) - Monsters obstructing sleep will be highlighted.
+* [Fat Experience Orbs](https://www.curseforge.com/minecraft/mc-mods/fat-experience-orbs) - Experience orbs merge together more aggressively.
+* [HealthCare](https://modrinth.com/mod/healthcare) - Mobs now show their health above their heads.
+* [Egg of Capitalism](https://modrinth.com/mod/egg-of-capitalism) - Every player who has killed the Ender Dragon will receieve their own personal egg.
+* 
 
 ## Gameplay features
 * [Universial Graves](https://modrinth.com/mod/universal-graves) - Players drop graves where they died.
 
 ## Cosmetic
+* [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition. (Installable clientside)
