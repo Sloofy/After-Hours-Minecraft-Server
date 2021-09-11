@@ -29,6 +29,7 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 * [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - In-game Minecraft map editor.
 * [CheaterDeleter](https://github.com/CoolMineman/CheaterDeleter) - Anti-cheat.
 * [Anonymize](https://github.com/NucleoidMC/anonymize/releases/) - Strip player IP addresses from logs.
+* [Extension](https://modrinth.com/mod/ext) - Essentials-like systems.
 
 ## QOL
 * [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes) - More sensible ratios of crafting stairs and trapdoors.
@@ -55,6 +56,10 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 * [BetterSleeping](https://www.curseforge.com/minecraft/mc-mods/bettersleeping) - Voting process to skip the night and provide slight temporary buffs upon sleeping.
 * [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix) - Standardizes a more balanced minimum sell price on Villager trades.
 * [StitchedSnow](https://www.curseforge.com/minecraft/mc-mods/stitchedsnow) - Snow now accumulates into higher levels next to blocks.
+* [FabricSit](https://modrinth.com/mod/sit) - Enables sitting on slabs and stairs, like chairs.
+* [Vanessence](https://modrinth.com/mod/vanessence) - Random tweaks, such as more active villager restocking and balanced beacon boosts depending on material.
+* [Lapis Warps](https://www.curseforge.com/minecraft/mc-mods/lapis-warps) - Physical teleporters to locations.
+* 
 
 ## Cosmetic
 * [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition. (Installable clientside)
