@@ -40,10 +40,21 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 * [Fat Experience Orbs](https://www.curseforge.com/minecraft/mc-mods/fat-experience-orbs) - Experience orbs merge together more aggressively.
 * [HealthCare](https://modrinth.com/mod/healthcare) - Mobs now show their health above their heads.
 * [Egg of Capitalism](https://modrinth.com/mod/egg-of-capitalism) - Every player who has killed the Ender Dragon will receieve their own personal egg.
-* 
+* [Villagers-Follow-Emeralds-Fabric](https://modrinth.com/mod/villagers-follow-emeralds-fabric) - Villagers will follow the player while holding emerald items in their hand.
+* [Roundaround's Villager Converting](https://modrinth.com/mod/roundaround-villager-converting) - Villagers always become zombies upon dying.
+* [Length Ladders](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders) - Allows for ladders to stack on each other forever as long as they touch the ground.
+* [Lapis Reserve](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve) - Lapis left in an enchanting table will be available in all enchanting tables for that player.
+* [Fence Player Upper](https://www.curseforge.com/minecraft/mc-mods/fenceplayerupper) - The ability to jump over fences.
+* [Discernning Furnaces](https://www.curseforge.com/minecraft/mc-mods/discerning-furnace) - Unsmeltable items no longer go into the input slot of a furnace.
+* [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper-fabric) - Feather falling enchantments no longer trample crops.
+* [Paradox Slabs](https://modrinth.com/mod/paradox-slabs) - Allows only cutting half of a slab, not the full slab block.
+* [Splash Concrete](https://www.curseforge.com/minecraft/mc-mods/splash-concrete) - Concrete can be made by using splash water bottles.
 
 ## Gameplay features
 * [Universial Graves](https://modrinth.com/mod/universal-graves) - Players drop graves where they died.
+* [BetterSleeping](https://www.curseforge.com/minecraft/mc-mods/bettersleeping) - Voting process to skip the night and provide slight temporary buffs upon sleeping.
+* [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix) - Standardizes a more balanced minimum sell price on Villager trades.
+* [StitchedSnow](https://www.curseforge.com/minecraft/mc-mods/stitchedsnow) - Snow now accumulates into higher levels next to blocks.
 
 ## Cosmetic
 * [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition. (Installable clientside)
