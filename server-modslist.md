@@ -30,7 +30,7 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 * [Anonymize](https://github.com/NucleoidMC/anonymize/releases/) - Strip player IP addresses from logs.
 
 ## QOL
-* [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes) - More sensical ratios of crafting stairs and trapdoors.
+* [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes) - More sensible ratios of crafting stairs and trapdoors.
 
 ## Gameplay features
 * [Universial Graves](https://modrinth.com/mod/universal-graves) - Players drop graves where they died.
