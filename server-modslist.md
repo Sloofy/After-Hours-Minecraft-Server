@@ -24,9 +24,14 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 * [Boat Fall](https://modrinth.com/mod/boat-fall) - Players and boats will now incur appropriate fall damage.
 
 ## System administration
+* [LuckPerms](https://github.com/lucko/LuckPerms) - Management of server permissions.
+* [ModUpdater](https://www.curseforge.com/minecraft/mc-mods/modupdater) - Come on, do I need to explain this one?
+* [Anonymize](https://github.com/NucleoidMC/anonymize/releases/) - Strip player IP addresses from logs.
 
 ## QOL
+* [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes) - More sensical ratios of crafting stairs and trapdoors.
 
 ## Gameplay features
+* [Universial Graves](https://modrinth.com/mod/universal-graves) - Players drop graves where they died.
 
 ## Cosmetic
