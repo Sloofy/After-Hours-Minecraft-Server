@@ -31,6 +31,7 @@ A list made to ideally narrow down what After Hours specifically needs.
 ### Audio
 * [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - More dynamic footsteps.
 * [Atmosfera](https://www.curseforge.com/minecraft/mc-mods/atmosfera) - Ambient sound control.
+* [Dynamic Sound Filters (fork)](https://gitlab.com/mikenrafter1/mc-dyn-sfx) - Implement echo and muffles audio while underwater.
 
 ## Server compatibility
 * [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) - Couple the usage of doors, fence gates, and trapdoors. 
