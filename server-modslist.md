@@ -1,6 +1,10 @@
 # Server mod list
 A list made to ideally narrow down what After Hours specifically needs, based mainly on https://github.com/comp500/fabric-serverside-mods/blob/main/README.md
 
+## Dependencies
+* [FabricLoader](https://fabricmc.net/use/)
+* [FabricAPI](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+
 ## Performance
 * [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) - Lighting engine optimizations.
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - General purpose server optimizations.
@@ -13,7 +17,11 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 * [Wither Cage Fix](https://www.curseforge.com/minecraft/mc-mods/wither-cage-fix) - Withers no longer forget which mob they are targetting when unloaded (creating easier Wither cages)
 * [Fabrification](https://www.curseforge.com/minecraft/mc-mods/fabrication) - Various tweaks and small features.
 * [Keep Head Names](https://modrinth.com/mod/keepheadnames) - Keep player names on placement of head and while retrieving.
-* [WorldBorderFix](https://modrinth.com/mod/WorldBorderFix) - 
+* [WorldBorderFix](https://modrinth.com/mod/WorldBorderFix) - Fixes seeing Overworld dimension world border regardless of dimension.
+* [FabricCrossDimTPFix](https://modrinth.com/mod/FabricCrossDimTPFix) - Fixes a bug where the player doesn't get sent their XP and Potion effects on cross dim teleport. 
+* [Illegal Stack Fixer](https://www.curseforge.com/minecraft/mc-mods/illegal-stack-fixer) - Detects invalid stacks from chests-like blocks and entities with storage upon any non-creative player opening the inventory.
+* [Chunk Saving Fix](https://www.curseforge.com/minecraft/mc-mods/chunk-saving-fix) - World gen from far away will not cut off structures / trees.
+* [Boat Fall](https://modrinth.com/mod/boat-fall) - Players and boats will now incur appropriate fall damage.
 
 ## System administration
 
