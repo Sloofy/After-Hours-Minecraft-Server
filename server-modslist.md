@@ -26,6 +26,7 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 ## System administration
 * [LuckPerms](https://github.com/lucko/LuckPerms) - Management of server permissions.
 * [ModUpdater](https://www.curseforge.com/minecraft/mc-mods/modupdater) - Come on, do I need to explain this one?
+* [CheaterDeleter](https://github.com/CoolMineman/CheaterDeleter) - Anti-cheat.
 * [Anonymize](https://github.com/NucleoidMC/anonymize/releases/) - Strip player IP addresses from logs.
 
 ## QOL
