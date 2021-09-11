@@ -25,7 +25,7 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 
 ## System administration
 * [LuckPerms](https://github.com/lucko/LuckPerms) - Management of server permissions.
-* [ModUpdater](https://www.curseforge.com/minecraft/mc-mods/modupdater) - Come on, do I need to explain this one?
+* [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater) - Come on, do I need to explain this one? (Installable clientside)
 * [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - In-game Minecraft map editor.
 * [CheaterDeleter](https://github.com/CoolMineman/CheaterDeleter) - Anti-cheat.
 * [Anonymize](https://github.com/NucleoidMC/anonymize/releases/) - Strip player IP addresses from logs.
@@ -48,14 +48,15 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 * [Length Ladders](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders) - Allows for ladders to stack on each other forever as long as they touch the ground.
 * [Lapis Reserve](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve) - Lapis left in an enchanting table will be available in all enchanting tables for that player.
 * [Fence Player Upper](https://www.curseforge.com/minecraft/mc-mods/fenceplayerupper) - The ability to jump over fences.
-* [Discernning Furnaces](https://www.curseforge.com/minecraft/mc-mods/discerning-furnace) - Unsmeltable items no longer go into the input slot of a furnace.
+* [Discerning Furnaces](https://www.curseforge.com/minecraft/mc-mods/discerning-furnace) - Unsmeltable items no longer go into the input slot of a furnace.
 * [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper-fabric) - Feather falling enchantments no longer trample crops.
 * [Paradox Slabs](https://modrinth.com/mod/paradox-slabs) - Allows only cutting half of a slab, not the full slab block.
 * [Splash Concrete](https://www.curseforge.com/minecraft/mc-mods/splash-concrete) - Concrete can be made by using splash water bottles.
 * [Whose Pet is This?](https://www.curseforge.com/minecraft/mc-mods/whose-pet-is-this) - Figure out who is the owner of the pet you're looking at. Most likely Ducksquack's.
-*
+* [The Loved Ones](https://www.curseforge.com/minecraft/mc-mods/the-loved-ones) - It is now impossible to kill your own pets.
 
 ## Gameplay features
+* [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - Enables proximity voice chat. (MUST BE INSTALLED ON CLIENT)
 * [Universial Graves](https://modrinth.com/mod/universal-graves) - Players drop graves where they died.
 * [BetterSleeping](https://www.curseforge.com/minecraft/mc-mods/bettersleeping) - Voting process to skip the night and provide slight temporary buffs upon sleeping.
 * [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix) - Standardizes a more balanced minimum sell price on Villager trades.
@@ -64,6 +65,8 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 * [Vanessence](https://modrinth.com/mod/vanessence) - Random tweaks, such as more active villager restocking and balanced beacon boosts depending on material.
 * [Lapis Warps](https://www.curseforge.com/minecraft/mc-mods/lapis-warps) - Physical teleporters to locations.
 * [Anvil Crushing Recipes](https://www.curseforge.com/minecraft/mc-mods/anvil-crushing-recipes) - Anvils now crush whatever block they smash onto.
+* [Spice of Fabric: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) - Encourages eating different food items by unlocking hearts.
+* 
 
 ## Cosmetic
 * [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition. (Installable clientside)
