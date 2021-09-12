@@ -30,7 +30,6 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 * [CheaterDeleter](https://github.com/CoolMineman/CheaterDeleter) - Anti-cheat.
 * [Anonymize](https://github.com/NucleoidMC/anonymize/releases/) - Strip player IP addresses from logs.
 * [Extension](https://modrinth.com/mod/ext) - Essentials-like systems.
-* [EasyMOTD](https://www.curseforge.com/minecraft/mc-mods/easymotd) - Random MOTD.
 * [Flan](https://www.curseforge.com/minecraft/mc-mods/flan) - Land claiming systems.
 * [Styled Player List](https://modrinth.com/mod/styledplayerlist) - Change the player list when holding tab to something more stylized.
 
@@ -41,7 +40,6 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 * [Better Signs & Frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames) - More intuitive signs, like text editing and accessing chests hidden by signs. 
 * [Suitably Stackable Stew](https://www.curseforge.com/minecraft/mc-mods/suitably-stackable-stew) - Stew items stack up to 16 now.
 * [Monsters in the Closet](https://modrinth.com/mod/monsters-in-the-closet) - Monsters obstructing sleep will be highlighted.
-* [Fat Experience Orbs](https://www.curseforge.com/minecraft/mc-mods/fat-experience-orbs) - Experience orbs merge together more aggressively.
 * [HealthCare](https://modrinth.com/mod/healthcare) - Mobs now show their health above their heads.
 * [Egg of Capitalism](https://modrinth.com/mod/egg-of-capitalism) - Every player who has killed the Ender Dragon will receieve their own personal egg.
 * [Villagers-Follow-Emeralds-Fabric](https://modrinth.com/mod/villagers-follow-emeralds-fabric) - Villagers will follow the player while holding emerald items in their hand.
@@ -74,7 +72,9 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 ## Cosmetic
 * [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition. (Installable clientside)
 * [Rich Chat](https://github.com/Ashley1227/rich-chat) - Markdown formatting for Minecraft.
+* [Visuality](https://modrinth.com/mod/visuality) - More particle effects for specific situations. (Installable clientside)
 
 ## Miscellaneous
 * [LambdaControls](https://modrinth.com/mod/lambdacontrols) - Controller support.
 * [Playertime Tracker](https://modrinth.com/mod/playtime-tracker) - Playtime tracker.
+* [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) - Containing many things, from MOTD, clumped XP orbs, to bug-fixes.
