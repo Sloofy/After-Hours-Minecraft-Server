@@ -23,6 +23,7 @@ A list made to ideally narrow down what After Hours specifically needs.
 * [OK Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - Allows for Optifine-like zooming controls.
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) - Allows for dynamic lighting from items on hand to items on the ground.
 * [Inspecio](https://modrinth.com/mod/inspecio) - Extended support for tooltips.
+* [Pettable](https://modrinth.com/mod/pettable) - You know it, baby. Pet animals with shift right-click.
 
 ## Cosmetic
 ### Visual
@@ -33,6 +34,7 @@ A list made to ideally narrow down what After Hours specifically needs.
 * [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric) - Trees now produce leaf particle effects.
 * [NotEnoughAnimations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) - Adds brand new animations that fit contextually better.
 * [Fabulous Clouds](https://modrinth.com/mod/fabulousclouds) - Clouds are tinted appropriately during sunrise and sunset, along other cloud-related configruations.
+* [Visuality](https://modrinth.com/mod/visuality) - More particle effects for specific situations.
 
 ### Audio
 * [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - More dynamic footsteps.
