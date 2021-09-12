@@ -1,6 +1,8 @@
 # Server mod list
 A list made to ideally narrow down what After Hours specifically needs, based mainly on https://github.com/comp500/fabric-serverside-mods/blob/main/README.md
 
+Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/client-modslist.md).
+
 ## Dependencies
 * [FabricLoader](https://fabricmc.net/use/)
 * [FabricAPI](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
