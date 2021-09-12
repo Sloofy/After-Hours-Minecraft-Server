@@ -14,30 +14,39 @@ A list made to ideally narrow down what After Hours specifically needs.
 * [Hydrogen](https://github.com/CaffeineMC/hydrogen-fabric) - Optimizes memory usage.
 * [Krypton](https://github.com/astei/krypton) - Optimizes networking slack.
 * [LazyDFU](https://modrinth.com/mod/lazydfu) - Do not wake up DataFixerUpper unless needed to for bootup (i.e. migration for newer MC versions).
+* [Enhanced Block Entities](https://modrinth.com/mod/ebe) - Improves block entities lag by using baked block models rather than entity models.
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) - Optimizes memory usage (again!).
 
 ## Gameplay features
 * [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next) - Convenient inventory and storage sorting solution.
+* [Emotecraft](https://modrinth.com/mod/emotecraft) - Perform and create your own emotes.
 * [OK Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - Allows for Optifine-like zooming controls.
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) - Allows for dynamic lighting from items on hand to items on the ground.
+* [Inspecio](https://modrinth.com/mod/inspecio) - Extended support for tooltips.
 
 ## Cosmetic
 ### Visual
 * [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) - Implements Optifine shader compatibility into Fabric.
+* [Figura](https://modrinth.com/mod/figura) - Fully customizable character creation.
 * [Better Dropped Items](https://www.curseforge.com/minecraft/mc-mods/better-dropped-items) - Scatter items on the ground instead of spinning around on the spot.
 * [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations) - Fireflies! I love fireflies!
+* [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric) - Trees now produce leaf particle effects.
 * [NotEnoughAnimations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) - Adds brand new animations that fit contextually better.
+* [Fabulous Clouds](https://modrinth.com/mod/fabulousclouds) - Clouds are tinted appropriately during sunrise and sunset, along other cloud-related configruations.
 
 ### Audio
 * [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - More dynamic footsteps.
 * [Atmosfera](https://www.curseforge.com/minecraft/mc-mods/atmosfera) - Ambient sound control.
 * [Dynamic Sound Filters (fork)](https://gitlab.com/mikenrafter1/mc-dyn-sfx) - Implement echo and muffles audio while underwater.
+* [Extra Sounds](https://modrinth.com/mod/extrasounds) - Extra UI sound effects.
 
 ## Server compatibility
 * [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) - Couple the usage of doors, fence gates, and trapdoors. 
 * [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - Enables proximity voice chat.
 * [SimplerHarvest](https://www.curseforge.com/minecraft/mc-mods/simplerharvest/) - Right-click to harvest. 
 * [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition.
+* [Adorn](https://modrinth.com/mod/adorn) - Furniture! Chairs! Sofas! Kitchens! Oh my!
 
 ## Miscellaneous
 * [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater) - Come on, do I need to explain this one? (Installable clientside)
+* [LambdaControls](https://modrinth.com/mod/lambdacontrols) - Controller support.
