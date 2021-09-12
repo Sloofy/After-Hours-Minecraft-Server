@@ -53,6 +53,7 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 * [Splash Concrete](https://www.curseforge.com/minecraft/mc-mods/splash-concrete) - Concrete can be made by using splash water bottles.
 * [Whose Pet is This?](https://www.curseforge.com/minecraft/mc-mods/whose-pet-is-this) - Figure out who is the owner of the pet you're looking at. Most likely Ducksquack's.
 * [The Loved Ones](https://www.curseforge.com/minecraft/mc-mods/the-loved-ones) - It is now impossible to kill your own pets.
+* [Pettable](https://modrinth.com/mod/pettable) - You know it, baby. Pet animals with shift right-click.
 
 ## Gameplay features
 * [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - Enables proximity voice chat. (MUST BE INSTALLED ON CLIENT)
