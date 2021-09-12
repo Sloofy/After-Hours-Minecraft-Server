@@ -32,6 +32,7 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 * [Extension](https://modrinth.com/mod/ext) - Essentials-like systems.
 * [EasyMOTD](https://www.curseforge.com/minecraft/mc-mods/easymotd) - Random MOTD.
 * [Flan](https://www.curseforge.com/minecraft/mc-mods/flan) - Land claiming systems.
+* [Styled Player List](https://modrinth.com/mod/styledplayerlist) - Change the player list when holding tab to something more stylized.
 
 ## QOL
 * [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes) - More sensible ratios of crafting stairs and trapdoors.
@@ -66,7 +67,14 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 * [Lapis Warps](https://www.curseforge.com/minecraft/mc-mods/lapis-warps) - Physical teleporters to locations.
 * [Anvil Crushing Recipes](https://www.curseforge.com/minecraft/mc-mods/anvil-crushing-recipes) - Anvils now crush whatever block they smash onto.
 * [Spice of Fabric: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) - Encourages eating different food items by unlocking hearts.
+* [Inspecio](https://modrinth.com/mod/inspecio) - Extended support for tooltips.
+* [Adorn](https://modrinth.com/mod/adorn) - Furniture! Chairs! Sofas! Kitchens! Oh my! (MUST BE INSTALLED ON CLIENT)
+* [Emotecraft](https://modrinth.com/mod/emotecraft) - Perform and create your own emotes. (MUST BE INSTALLED ON CLIENT)
 
 ## Cosmetic
 * [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition. (Installable clientside)
 * [Rich Chat](https://github.com/Ashley1227/rich-chat) - Markdown formatting for Minecraft.
+
+## Miscellaneous
+* [LambdaControls](https://modrinth.com/mod/lambdacontrols) - Controller support.
+* [Playertime Tracker](https://modrinth.com/mod/playtime-tracker) - Playtime tracker.
