@@ -46,7 +46,7 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 
 ### Audio
 * [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - More dynamic footsteps.
-* [Atmosfera](https://www.curseforge.com/minecraft/mc-mods/atmosfera) - Ambient sound control.
+* [Charmonium](https://www.curseforge.com/minecraft/mc-mods/charmonium) - Ambient sound control.
 * [Dynamic Sound Filters (fork)](https://gitlab.com/mikenrafter1/mc-dyn-sfx) - Implement echo and muffles audio while underwater.
 * [Extra Sounds](https://modrinth.com/mod/extrasounds) - Extra UI sound effects.
 
