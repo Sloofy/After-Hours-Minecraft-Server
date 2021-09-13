@@ -46,7 +46,7 @@ Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Egg of Capitalism](https://modrinth.com/mod/egg-of-capitalism) - Every player who has killed the Ender Dragon will receieve their own personal egg.
 * [Villagers-Follow-Emeralds-Fabric](https://modrinth.com/mod/villagers-follow-emeralds-fabric) - Villagers will follow the player while holding emerald items in their hand.
 * [Roundaround's Villager Converting](https://modrinth.com/mod/roundaround-villager-converting) - Villagers always become zombies upon dying.
-* [Length Ladders](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders) - Allows for ladders to stack on each other forever as long as they touch the ground.
+* [Lengthy Ladders](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders) - Allows for ladders to stack on each other forever as long as they touch the ground.
 * [Lapis Reserve](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve) - Lapis left in an enchanting table will be available in all enchanting tables for that player.
 * [Fence Player Upper](https://www.curseforge.com/minecraft/mc-mods/fenceplayerupper) - The ability to jump over fences.
 * [Discerning Furnaces](https://www.curseforge.com/minecraft/mc-mods/discerning-furnace) - Unsmeltable items no longer go into the input slot of a furnace.
