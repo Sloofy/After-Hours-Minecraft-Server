@@ -28,6 +28,7 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Pettable](https://modrinth.com/mod/pettable) - You know it, baby. Pet animals with shift right-click.
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) - Visualizes hunger and saturation while holding food.
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) - Mini map in the corner of your screen.
+* [Fabric Seasons](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons) - Implements worldwide seasons that cycle through every 28 days. 
 
 ## Cosmetic
 ### Visual
