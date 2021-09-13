@@ -63,7 +63,6 @@ Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Universial Graves](https://modrinth.com/mod/universal-graves) - Players drop graves where they died.
 * [BetterSleeping](https://www.curseforge.com/minecraft/mc-mods/bettersleeping) - Voting process to skip the night and provide slight temporary buffs upon sleeping.
 * [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix) - Standardizes a more balanced minimum sell price on Villager trades.
-* [StitchedSnow](https://www.curseforge.com/minecraft/mc-mods/stitchedsnow) - Snow now accumulates into higher levels next to blocks.
 * [FabricSit](https://modrinth.com/mod/sit) - Enables sitting on slabs and stairs, like chairs.
 * [Vanessence](https://modrinth.com/mod/vanessence) - Random tweaks, such as more active villager restocking and balanced beacon boosts depending on material.
 * [Lapis Warps](https://www.curseforge.com/minecraft/mc-mods/lapis-warps) - Physical teleporters to locations.
@@ -73,6 +72,7 @@ Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Adorn](https://modrinth.com/mod/adorn) - Furniture! Chairs! Sofas! Kitchens! Oh my! (MUST BE INSTALLED ON CLIENT)
 * [Emotecraft](https://modrinth.com/mod/emotecraft) - Perform and create your own emotes. (MUST BE INSTALLED ON CLIENT)
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) - Mini map in the corner of your screen. (Installable clientside)
+* [Fabric Seasons](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons) - Implements worldwide seasons that cycle through every 28 days. (MUST BE INSTALLED ON CLIENT.
 
 ## Cosmetic
 * [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition. (Installable clientside)
