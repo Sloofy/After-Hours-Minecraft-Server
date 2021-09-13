@@ -56,6 +56,7 @@ Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Whose Pet is This?](https://www.curseforge.com/minecraft/mc-mods/whose-pet-is-this) - Figure out who is the owner of the pet you're looking at. Most likely Ducksquack's.
 * [The Loved Ones](https://www.curseforge.com/minecraft/mc-mods/the-loved-ones) - It is now impossible to kill your own pets.
 * [Pettable](https://modrinth.com/mod/pettable) - You know it, baby. Pet animals with shift right-click. (MUST BE INSTALLED ON CLIENT)
+* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) - Visualizes hunger and saturation while holding food. (Installable clientside)
 
 ## Gameplay features
 * [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - Enables proximity voice chat. (MUST BE INSTALLED ON CLIENT)
@@ -71,11 +72,13 @@ Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Inspecio](https://modrinth.com/mod/inspecio) - Extended support for tooltips.
 * [Adorn](https://modrinth.com/mod/adorn) - Furniture! Chairs! Sofas! Kitchens! Oh my! (MUST BE INSTALLED ON CLIENT)
 * [Emotecraft](https://modrinth.com/mod/emotecraft) - Perform and create your own emotes. (MUST BE INSTALLED ON CLIENT)
+* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) - Mini map in the corner of your screen. (Installable clientside)
 
 ## Cosmetic
 * [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition. (Installable clientside)
 * [Rich Chat](https://github.com/Ashley1227/rich-chat) - Markdown formatting for Minecraft.
 * [Visuality](https://modrinth.com/mod/visuality) - More particle effects for specific situations. (Installable clientside)
+* [NPC Variety](https://www.curseforge.com/minecraft/mc-mods/npc-variety-port) - Expressive villagers and various skintones. (MUST BE INSTALLED ON CLIENT)
 
 ## Miscellaneous
 * [LambdaControls](https://modrinth.com/mod/lambdacontrols) - Controller support.
