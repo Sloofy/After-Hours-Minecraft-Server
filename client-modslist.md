@@ -9,6 +9,7 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 * [Indium](https://github.com/comp500/Indium)
+* [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
 
 ## Performance
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - General performance optimization.
