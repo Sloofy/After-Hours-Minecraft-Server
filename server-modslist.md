@@ -72,7 +72,7 @@ Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Adorn](https://modrinth.com/mod/adorn) - Furniture! Chairs! Sofas! Kitchens! Oh my! (MUST BE INSTALLED ON CLIENT)
 * [Emotecraft](https://modrinth.com/mod/emotecraft) - Perform and create your own emotes. (MUST BE INSTALLED ON CLIENT)
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) - Mini map in the corner of your screen. (Installable clientside)
-* [Fabric Seasons](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons) - Implements worldwide seasons that cycle through every 28 days. (MUST BE INSTALLED ON CLIENT.
+* [Fabric Seasons](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons) - Implements worldwide seasons that cycle through every 28 days. (MUST BE INSTALLED ON CLIENT)
 
 ## Cosmetic
 * [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition. (Installable clientside)
