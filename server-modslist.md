@@ -25,6 +25,7 @@ Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Illegal Stack Fixer](https://www.curseforge.com/minecraft/mc-mods/illegal-stack-fixer) - Detects invalid stacks from chests-like blocks and entities with storage upon any non-creative player opening the inventory.
 * [Chunk Saving Fix](https://www.curseforge.com/minecraft/mc-mods/chunk-saving-fix) - World gen from far away will not cut off structures / trees.
 * [Boat Fall](https://modrinth.com/mod/boat-fall) - Players and boats will now incur appropriate fall damage.
+* [On Soul Fire](https://www.curseforge.com/minecraft/mc-mods/on-soul-fire) - Gives soul fire actual unique properties, like rendering a blue flame. (MUST BE INSTALLED ON CLIENT)
 
 ## System administration
 * [LuckPerms](https://github.com/lucko/LuckPerms) - Management of server permissions.
@@ -56,6 +57,9 @@ Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Whose Pet is This?](https://www.curseforge.com/minecraft/mc-mods/whose-pet-is-this) - Figure out who is the owner of the pet you're looking at. Most likely Ducksquack's.
 * [Pettable](https://modrinth.com/mod/pettable) - You know it, baby. Pet animals with shift right-click. (MUST BE INSTALLED ON CLIENT)
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) - Visualizes hunger and saturation while holding food. (Installable clientside)
+* [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) - Attacking entities takes priority over cutting grass. (Installable clientside)
+* [Dual Riders](https://www.curseforge.com/minecraft/mc-mods/dual-riders) - Saddle up with two people on a horse!
+* [Snow Under Trees for Fabric](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric) - Cold biomes will allow for snow underneath trees. (MUST BE INSTALLED ON CLIENT)
 
 ## Gameplay features
 * [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - Enables proximity voice chat. (MUST BE INSTALLED ON CLIENT)
@@ -76,12 +80,20 @@ Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Charm](https://www.curseforge.com/minecraft/mc-mods/charm) - Various gameplay additions, such as casks for storing potions and being unable to accidentally hurt your own pets. (MUST BE INSTALLED ON CLIENT)
 * [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend) - Expands on End dimension gameplay. (MUST BE INSTALLED ON CLIENT)
 * [BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether) - Expands on Nether dimension gameplay. (MUST BE INSTALLED ON CLIENT)
+* [Beacon Overhaul](https://www.curseforge.com/minecraft/mc-mods/beaconoverhaul) - Introduces a tier system and better effect scaling for beacons. (MUST BE INSTALLED ON CLIENT)
+* [Additional Bars](https://www.curseforge.com/minecraft/mc-mods/additional-bars-fabric) - Implements gold and wood bars, alongside being able to place bars horizontally. (MUST BE INSTALLED ON CLIENT)
+* [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful-fabric) - Creates auto-generated bounty systems in villages. (MUST BE INSTALLED ON CLIENT)
+* [Enhanced Celestials](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials-fabric) - Random night events based on the moon's state. (MUST BE INSTALLED ON CLIENT)
+* [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish) - Overhauls fishing and adds new content, to boot! (MUST BE INSTALLED ON CLIENT)
+* [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric) - New jobs, trades, and workbenches! (MUST BE INSTALLED ON CLIENT)
+* [More Banner Features](https://www.curseforge.com/minecraft/mc-mods/more-banner-features) - Offer more things to do with banners. (MUST BE INSTALLED ON CLIENT)
 
 ## Cosmetic
 * [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition. (Installable clientside)
 * [Rich Chat](https://github.com/Ashley1227/rich-chat) - Markdown formatting for Minecraft.
 * [Visuality](https://modrinth.com/mod/visuality) - More particle effects for specific situations. (Installable clientside)
 * [NPC Variety](https://www.curseforge.com/minecraft/mc-mods/npc-variety-port) - Expressive villagers and various skintones. (MUST BE INSTALLED ON CLIENT)
+* [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric) - Give villagers names. (MUST BE INSTALLED ON CLIENT)
 
 ## Miscellaneous
 * [LambdaControls](https://modrinth.com/mod/lambdacontrols) - Controller support.
