@@ -6,6 +6,7 @@ Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 ## Dependencies
 * [FabricLoader](https://fabricmc.net/use/)
 * [FabricAPI](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+* [BCLib](https://www.curseforge.com/minecraft/mc-mods/bclib)
 
 ## Performance
 * [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) - Lighting engine optimizations.
