@@ -68,7 +68,7 @@ Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix) - Standardizes a more balanced minimum sell price on Villager trades.
 * [FabricSit](https://modrinth.com/mod/sit) - Enables sitting on slabs and stairs, like chairs.
 * [Vanessence](https://modrinth.com/mod/vanessence) - Random tweaks, such as more active villager restocking and balanced beacon boosts depending on material.
-* [Lapis Warps](https://www.curseforge.com/minecraft/mc-mods/lapis-warps) - Physical teleporters to locations.
+* [Fabric Waystones](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones) - Physical teleporters to locations. (MUST BE INSTALLED ON CLIENT)
 * [Anvil Crushing Recipes](https://www.curseforge.com/minecraft/mc-mods/anvil-crushing-recipes) - Anvils now crush whatever block they smash onto.
 * [Spice of Fabric: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) - Encourages eating different food items by unlocking hearts.
 * [Inspecio](https://modrinth.com/mod/inspecio) - Extended support for tooltips.
