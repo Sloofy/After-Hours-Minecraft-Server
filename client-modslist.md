@@ -30,6 +30,10 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) - Visualizes hunger and saturation while holding food.
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) - Mini map in the corner of your screen.
 * [Fabric Seasons](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons) - Implements worldwide seasons that cycle through every 28 days. 
+* [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric) - Plenty more food items to farm and craft.
+* [Charm](https://www.curseforge.com/minecraft/mc-mods/charm) - Various gameplay additions, such as casks for storing potions and being unable to accidentally hurt your own pets.
+* [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend) - Expands on End dimension gameplay. 
+* [BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether) - Expands on Nether dimension gameplay. 
 
 ## Cosmetic
 ### Visual
