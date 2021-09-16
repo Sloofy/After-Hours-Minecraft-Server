@@ -43,6 +43,7 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [More Banner Features](https://www.curseforge.com/minecraft/mc-mods/more-banner-features) - Offer more things to do with banners.
 * [Snow Under Trees for Fabric](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric) - Cold biomes will allow for snow underneath trees.
 * [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric) - Give villagers names.
+* [Fabric Waystones](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones) - Physical teleporters to locations.
 
 ## Cosmetic
 ### Visual
