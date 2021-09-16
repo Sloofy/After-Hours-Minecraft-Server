@@ -1,5 +1,5 @@
 # Client mod list
-A list made to ideally narrow down what After Hours specifically needs.
+A list made to ideally narrow down what After Hours specifically needs, borrowing partly from https://www.curseforge.com/minecraft/modpacks/better-minecraft-fabric.
 
 Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/server-modslist.md).
 
@@ -10,6 +10,7 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 * [Indium](https://github.com/comp500/Indium)
 * [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
+* [BCLib](https://www.curseforge.com/minecraft/mc-mods/bclib)
 
 ## Performance
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - General performance optimization.
