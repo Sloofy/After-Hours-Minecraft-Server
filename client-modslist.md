@@ -20,6 +20,7 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [LazyDFU](https://modrinth.com/mod/lazydfu) - Do not wake up DataFixerUpper unless needed to for bootup (i.e. migration for newer MC versions).
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe) - Improves block entities lag by using baked block models rather than entity models.
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) - Optimizes memory usage (again!).
+* [DashLoader](https://www.curseforge.com/minecraft/mc-mods/dashloader) - Speed up boot times immensely.
 
 ## Gameplay features
 * [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next) - Convenient inventory and storage sorting solution.
@@ -35,6 +36,13 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Charm](https://www.curseforge.com/minecraft/mc-mods/charm) - Various gameplay additions, such as casks for storing potions and being unable to accidentally hurt your own pets.
 * [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend) - Expands on End dimension gameplay. 
 * [BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether) - Expands on Nether dimension gameplay. 
+* [Additional Bars](https://www.curseforge.com/minecraft/mc-mods/additional-bars-fabric) - Implements gold and wood bars, alongside being able to place bars horizontally.
+* [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) - Attacking entities takes priority over cutting grass. 
+* [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish) - Overhauls fishing and adds new content, to boot!
+* [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric) - New jobs, trades, and workbenches!
+* [More Banner Features](https://www.curseforge.com/minecraft/mc-mods/more-banner-features) - Offer more things to do with banners.
+* [Snow Under Trees for Fabric](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric) - Cold biomes will allow for snow underneath trees.
+* [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric) - Give villagers names.
 
 ## Cosmetic
 ### Visual
@@ -48,6 +56,8 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Visuality](https://modrinth.com/mod/visuality) - More particle effects for specific situations.
 * [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric) - Background blur while in menus.
 * [NPC Variety](https://www.curseforge.com/minecraft/mc-mods/npc-variety-port) - Expressive villagers and various skintones.
+* [Axolotl Bucket Fix](https://www.curseforge.com/minecraft/mc-mods/axolotl-bucket-fix) - Different axolotl species will be represented inside the bucket.
+* [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric) - Give villagers names.
 
 ### Audio
 * [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - More dynamic footsteps.
