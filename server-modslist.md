@@ -47,14 +47,12 @@ Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Villagers-Follow-Emeralds-Fabric](https://modrinth.com/mod/villagers-follow-emeralds-fabric) - Villagers will follow the player while holding emerald items in their hand.
 * [Roundaround's Villager Converting](https://modrinth.com/mod/roundaround-villager-converting) - Villagers always become zombies upon dying.
 * [Lengthy Ladders](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders) - Allows for ladders to stack on each other forever as long as they touch the ground.
-* [Lapis Reserve](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve) - Lapis left in an enchanting table will be available in all enchanting tables for that player.
 * [Fence Player Upper](https://www.curseforge.com/minecraft/mc-mods/fenceplayerupper) - The ability to jump over fences.
 * [Discerning Furnaces](https://www.curseforge.com/minecraft/mc-mods/discerning-furnace) - Unsmeltable items no longer go into the input slot of a furnace.
 * [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper-fabric) - Feather falling enchantments no longer trample crops.
 * [Paradox Slabs](https://modrinth.com/mod/paradox-slabs) - Allows only cutting half of a slab, not the full slab block.
 * [Splash Concrete](https://www.curseforge.com/minecraft/mc-mods/splash-concrete) - Concrete can be made by using splash water bottles.
 * [Whose Pet is This?](https://www.curseforge.com/minecraft/mc-mods/whose-pet-is-this) - Figure out who is the owner of the pet you're looking at. Most likely Ducksquack's.
-* [The Loved Ones](https://www.curseforge.com/minecraft/mc-mods/the-loved-ones) - It is now impossible to kill your own pets.
 * [Pettable](https://modrinth.com/mod/pettable) - You know it, baby. Pet animals with shift right-click. (MUST BE INSTALLED ON CLIENT)
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) - Visualizes hunger and saturation while holding food. (Installable clientside)
 
@@ -73,6 +71,10 @@ Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Emotecraft](https://modrinth.com/mod/emotecraft) - Perform and create your own emotes. (MUST BE INSTALLED ON CLIENT)
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) - Mini map in the corner of your screen. (Installable clientside)
 * [Fabric Seasons](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons) - Implements worldwide seasons that cycle through every 28 days. (MUST BE INSTALLED ON CLIENT)
+* [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric) - Plenty more food items to farm and craft. (MUST BE INSTALLED ON CLIENT)
+* [Charm](https://www.curseforge.com/minecraft/mc-mods/charm) - Various gameplay additions, such as casks for storing potions and being unable to accidentally hurt your own pets. (MUST BE INSTALLED ON CLIENT)
+* [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend) - Expands on End dimension gameplay. (MUST BE INSTALLED ON CLIENT)
+* [BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether) - Expands on Nether dimension gameplay. (MUST BE INSTALLED ON CLIENT)
 
 ## Cosmetic
 * [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition. (Installable clientside)
