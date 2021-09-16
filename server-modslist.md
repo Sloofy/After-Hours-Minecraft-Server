@@ -3,7 +3,7 @@ A list made to ideally narrow down what After Hours specifically needs, based ma
 
 Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/client-modslist.md).
 
-Mods with a † included must be installed on the client.
+**NOTE**: Mods with a † included must be installed on the client.
 Mods with a ‡ may be installed on the client, but are not necessary.
 
 ## Dependencies
