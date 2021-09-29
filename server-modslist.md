@@ -92,7 +92,6 @@ Mods with a ‡ may be installed on the client, but are not necessary.
 * †[More Banner Features](https://www.curseforge.com/minecraft/mc-mods/more-banner-features) - Offer more things to do with banners. 
 
 ## Cosmetic
-* ‡[BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition. 
 * [Rich Chat](https://github.com/Ashley1227/rich-chat) - Markdown formatting for Minecraft.
 * ‡[Visuality](https://modrinth.com/mod/visuality) - More particle effects for specific situations. 
 * †[NPC Variety](https://www.curseforge.com/minecraft/mc-mods/npc-variety-port) - Expressive villagers and various skintones.
