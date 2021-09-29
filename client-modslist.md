@@ -11,6 +11,7 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Indium](https://github.com/comp500/Indium)
 * [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
 * [BCLib](https://www.curseforge.com/minecraft/mc-mods/bclib)
+* [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)
 
 ## Performance
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - General performance optimization.
@@ -44,6 +45,7 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Snow Under Trees for Fabric](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric) - Cold biomes will allow for snow underneath trees.
 * [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric) - Give villagers names.
 * [Fabric Waystones](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones) - Physical teleporters to locations.
+* [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) - Holographic building visualizers for your building comfort.
 
 ## Cosmetic
 ### Visual
@@ -58,6 +60,7 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric) - Background blur while in menus.
 * [NPC Variety](https://www.curseforge.com/minecraft/mc-mods/npc-variety-port) - Expressive villagers and various skintones.
 * [Axolotl Bucket Fix](https://www.curseforge.com/minecraft/mc-mods/axolotl-bucket-fix) - Different axolotl species will be represented inside the bucket.
+* [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition. 
 * [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric) - Give villagers names.
 
 ### Audio
