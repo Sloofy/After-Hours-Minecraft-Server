@@ -36,7 +36,6 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric) - Plenty more food items to farm and craft.
 * [Charm](https://www.curseforge.com/minecraft/mc-mods/charm) - Various gameplay additions, such as casks for storing potions and being unable to accidentally hurt your own pets.
 * [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend) - Expands on End dimension gameplay. 
-* [BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether) - Expands on Nether dimension gameplay. 
 * [Additional Bars](https://www.curseforge.com/minecraft/mc-mods/additional-bars-fabric) - Implements gold and wood bars, alongside being able to place bars horizontally.
 * [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) - Attacking entities takes priority over cutting grass. 
 * [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish) - Overhauls fishing and adds new content, to boot!
