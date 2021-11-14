@@ -82,11 +82,9 @@ Mods with a ‡ may be installed on the client, but are not necessary.
 * †[Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric) - Plenty more food items to farm and craft.
 * †[Charm](https://www.curseforge.com/minecraft/mc-mods/charm) - Various gameplay additions, such as casks for storing potions and being unable to accidentally hurt your own pets.
 * †[BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend) - Expands on End dimension gameplay.
-* †[BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether) - Expands on Nether dimension gameplay.
 * †[Beacon Overhaul](https://www.curseforge.com/minecraft/mc-mods/beaconoverhaul) - Introduces a tier system and better effect scaling for beacons.
 * †[Additional Bars](https://www.curseforge.com/minecraft/mc-mods/additional-bars-fabric) - Implements gold and wood bars, alongside being able to place bars horizontally.
 * †[Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful-fabric) - Creates auto-generated bounty systems in villages.
-* †[Enhanced Celestials](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials-fabric) - Random night events based on the moon's state. 
 * †[Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish) - Overhauls fishing and adds new content, to boot! 
 * †[More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric) - New jobs, trades, and workbenches! 
 * †[More Banner Features](https://www.curseforge.com/minecraft/mc-mods/more-banner-features) - Offer more things to do with banners. 
