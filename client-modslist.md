@@ -1,5 +1,5 @@
 # Client mod list
-A list made to ideally narrow down what After Hours specifically needs, borrowing partly from https://www.curseforge.com/minecraft/modpacks/better-minecraft-fabric.
+A list made to ideally narrow down what After Hours specifically needs, borrowing partly from https://www.curseforge.com/minecraft/modpacks/better-minecraft-fabric and https://www.curseforge.com/minecraft/modpacks/fabulously-optimized.
 
 Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/server-modslist.md).
 
@@ -21,7 +21,8 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [LazyDFU](https://modrinth.com/mod/lazydfu) - Do not wake up DataFixerUpper unless needed to for bootup (i.e. migration for newer MC versions).
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe) - Improves block entities lag by using baked block models rather than entity models.
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) - Optimizes memory usage (again!).
-* [DashLoader](https://www.curseforge.com/minecraft/mc-mods/dashloader) - Speed up boot times immensely.
+* [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) - Stops rendering entities that are behind a wall.
+* [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload) - Makes language switching instant.
 
 ## Gameplay features
 * [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next) - Convenient inventory and storage sorting solution.
@@ -61,6 +62,8 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Axolotl Bucket Fix](https://www.curseforge.com/minecraft/mc-mods/axolotl-bucket-fix) - Different axolotl species will be represented inside the bucket.
 * [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition. 
 * [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric) - Give villagers names.
+* [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) - Horse health and your food are displayed at the same time, jump bar appears when jumping.
+* [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - Fixes transparent gaps in held items.
 
 ### Audio
 * [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - More dynamic footsteps.
@@ -78,3 +81,5 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 ## Miscellaneous
 * [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater) - Come on, do I need to explain this one? (Installable clientside)
 * [LambdaControls](https://modrinth.com/mod/lambdacontrols) - Controller support.
+* [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) - Brings forward more Optifine-like features to Sodium.
+* [Your Options Shall Be Respected (YOSBR)](https://www.curseforge.com/minecraft/mc-mods/yosbr) - Keeps your settings when updating the modpack.
