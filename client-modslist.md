@@ -1,7 +1,9 @@
 # Client mod list
 A list made to ideally narrow down what After Hours specifically needs, borrowing partly from https://www.curseforge.com/minecraft/modpacks/better-minecraft-fabric and https://www.curseforge.com/minecraft/modpacks/fabulously-optimized.
 
-Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/server-modslist.md).
+Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/server-modslist.md).
+
+Go to [entire mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/entire-modslist).
 
 ## Dependencies
 * [FabricLoader](https://fabricmc.net/use/)
@@ -64,6 +66,7 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric) - Give villagers names.
 * [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) - Horse health and your food are displayed at the same time, jump bar appears when jumping.
 * [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - Fixes transparent gaps in held items.
+* [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition.
 
 ### Audio
 * [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - More dynamic footsteps.
@@ -75,7 +78,6 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) - Couple the usage of doors, fence gates, and trapdoors. 
 * [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - Enables proximity voice chat.
 * [SimplerHarvest](https://www.curseforge.com/minecraft/mc-mods/simplerharvest/) - Right-click to harvest. 
-* [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition.
 * [Adorn](https://modrinth.com/mod/adorn) - Furniture! Chairs! Sofas! Kitchens! Oh my!
 
 ## Miscellaneous
