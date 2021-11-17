@@ -1,9 +1,9 @@
 # The entire mods list
 The entire mods list.
 
-Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/client-modslist.md).
+Go to [client mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/client-modslist.md).
 
-Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/server-modslist.md).
+Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/server-modslist.md).
 
 ## Dependencies
 * [FabricLoader](https://fabricmc.net/use/)
