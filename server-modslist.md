@@ -1,7 +1,9 @@
 # Server mod list
 A list made to ideally narrow down what After Hours specifically needs, based mainly on https://github.com/comp500/fabric-serverside-mods/blob/main/README.md
 
-Go to [client mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/client-modslist.md).
+Go to [client mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/client-modslist.md).
+
+Go to [entire mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/entire-modslist).
 
 **NOTE**: Mods with a † included must be installed on the client.
 Mods with a ‡ may be installed on the client, but are not necessary.
