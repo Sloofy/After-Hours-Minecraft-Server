@@ -122,7 +122,7 @@ Go to [server mod list](https://github.com/Sloofy/After-Hours-Minecraft-Server/b
 * [Extra Sounds](https://modrinth.com/mod/extrasounds) - Extra UI sound effects.
 
 ## Miscellaneous
-* ‡[LambdaControls](https://modrinth.com/mod/lambdacontrols) - Controller support.
+* [LambdaControls](https://modrinth.com/mod/lambdacontrols) - Controller support.
 * [Playertime Tracker](https://modrinth.com/mod/playtime-tracker) - Playtime tracker.
 * [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) - Containing many things, from MOTD, clumped XP orbs, to bug-fixes.
 * [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) - Brings forward more Optifine-like features to Sodium.
