@@ -75,7 +75,7 @@ Mods with a ‡ may be installed on the client, but are not necessary.
 * †[Vanessence](https://modrinth.com/mod/vanessence) - Random tweaks, such as more active villager restocking and balanced beacon boosts depending on material.
 * [Fabric Waystones](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones) - Physical teleporters to locations.
 * [Anvil Crushing Recipes](https://www.curseforge.com/minecraft/mc-mods/anvil-crushing-recipes) - Anvils now crush whatever block they smash onto.
-* [Spice of Fabric: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) - Encourages eating different food items by unlocking hearts.
+* [Spice of Fabric](https://www.curseforge.com/minecraft/mc-mods/spice-of-fabric) - Encourages eating different food items.
 * [Inspecio](https://modrinth.com/mod/inspecio) - Extended support for tooltips.
 * †[Adorn](https://modrinth.com/mod/adorn) - Furniture! Chairs! Sofas! Kitchens! Oh my! 
 * †[Emotecraft](https://modrinth.com/mod/emotecraft) - Perform and create your own emotes. 
