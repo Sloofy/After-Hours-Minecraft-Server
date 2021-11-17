@@ -3,7 +3,7 @@ A list made to ideally narrow down what After Hours specifically needs, borrowin
 
 Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/server-modslist.md).
 
-Go to [entire mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/entire-modslist).
+Go to [entire mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/blob/master/entire-modslist.md).
 
 ## Dependencies
 * [FabricLoader](https://fabricmc.net/use/)
