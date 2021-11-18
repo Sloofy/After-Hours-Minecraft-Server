@@ -69,7 +69,6 @@ Go to [entire mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition.
 * [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) - Outer skin layer is rendered as 3D.
 * [Wavey Capes](https://www.curseforge.com/minecraft/mc-mods/waveycapes) - Makes capes a little cooler by having them wave around instead of being static.
-* [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - Fixes the transparent lines in specific item models.
 * [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain) - Sandstorms, rain, and snow improved.
 
 ### Audio
