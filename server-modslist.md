@@ -55,7 +55,6 @@ Mods with a ‡ may be installed on the client, but are not necessary.
 * [Villagers-Follow-Emeralds-Fabric](https://modrinth.com/mod/villagers-follow-emeralds-fabric) - Villagers will follow the player while holding emerald items in their hand.
 * [Roundaround's Villager Converting](https://modrinth.com/mod/roundaround-villager-converting) - Villagers always become zombies upon dying.
 * [Lengthy Ladders](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders) - Allows for ladders to stack on each other forever as long as they touch the ground.
-* [Fence Player Upper](https://www.curseforge.com/minecraft/mc-mods/fenceplayerupper) - The ability to jump over fences.
 * [Discerning Furnaces](https://www.curseforge.com/minecraft/mc-mods/discerning-furnace) - Unsmeltable items no longer go into the input slot of a furnace.
 * [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper-fabric) - Feather falling enchantments no longer trample crops.
 * [Paradox Slabs](https://modrinth.com/mod/paradox-slabs) - Allows only cutting half of a slab, not the full slab block.
