@@ -47,6 +47,7 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Extension](https://modrinth.com/mod/ext) - Essentials-like systems.
 * [Flan](https://www.curseforge.com/minecraft/mc-mods/flan) - Land claiming systems.
 * [Styled Player List](https://modrinth.com/mod/styledplayerlist) - Change the player list when holding tab to something more stylized.
+* [Hey That's Mine](https://www.curseforge.com/minecraft/mc-mods/htm) - Container trust system.
 
 ## QOL
 * [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes) - More sensible ratios of crafting stairs and trapdoors.
@@ -60,7 +61,6 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Villagers-Follow-Emeralds-Fabric](https://modrinth.com/mod/villagers-follow-emeralds-fabric) - Villagers will follow the player while holding emerald items in their hand.
 * [Roundaround's Villager Converting](https://modrinth.com/mod/roundaround-villager-converting) - Villagers always become zombies upon dying.
 * [Lengthy Ladders](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders) - Allows for ladders to stack on each other forever as long as they touch the ground.
-* [Fence Player Upper](https://www.curseforge.com/minecraft/mc-mods/fenceplayerupper) - The ability to jump over fences.
 * [Discerning Furnaces](https://www.curseforge.com/minecraft/mc-mods/discerning-furnace) - Unsmeltable items no longer go into the input slot of a furnace.
 * [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper-fabric) - Feather falling enchantments no longer trample crops.
 * [Paradox Slabs](https://modrinth.com/mod/paradox-slabs) - Allows only cutting half of a slab, not the full slab block.
@@ -114,12 +114,25 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric) - Give villagers names.
 * [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) - Horse health and your food are displayed at the same time, jump bar appears when jumping.
 * [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - Fixes transparent gaps in held items.
+* [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) - Outer skin layer is rendered as 3D.
+* [Wavey Capes](https://www.curseforge.com/minecraft/mc-mods/waveycapes) - Makes capes a little cooler by having them wave around instead of being static.
+* [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain) - Sandstorms, rain, and snow improved.
 
 ### Audio
 * [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - More dynamic footsteps.
 * [Charmonium](https://www.curseforge.com/minecraft/mc-mods/charmonium) - Ambient sound control.
 * [Dynamic Sound Filters (fork)](https://gitlab.com/mikenrafter1/mc-dyn-sfx) - Implement echo and muffles audio while underwater.
 * [Extra Sounds](https://modrinth.com/mod/extrasounds) - Extra UI sound effects.
+
+## Optifine Feature Uplift
+* [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) - Animated texture support.
+* [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) - Custom item texture support.
+* [Colormatica](https://www.curseforge.com/minecraft/mc-mods/colormatic) - Custom colour support.
+* [ConnectedTexturesMod for Fabric](https://www.curseforge.com/minecraft/mc-mods/ctm-fabric) - Connected textures support.
+* [Custom Entity Models (CEM)](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) - Custom entity models support.
+* [MinecraftCapes Mod](https://www.curseforge.com/minecraft/mc-mods/minecraftcapes-mod) - Custom capes support.
+* [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) - Dynamic lights.
+* [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - Zoom functionality
 
 ## Miscellaneous
 * [LambdaControls](https://modrinth.com/mod/lambdacontrols) - Controller support.
