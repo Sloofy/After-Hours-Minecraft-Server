@@ -41,6 +41,7 @@ Mods with a ‡ may be installed on the client, but are not necessary.
 * [Extension](https://modrinth.com/mod/ext) - Essentials-like systems.
 * [Flan](https://www.curseforge.com/minecraft/mc-mods/flan) - Land claiming systems.
 * [Styled Player List](https://modrinth.com/mod/styledplayerlist) - Change the player list when holding tab to something more stylized.
+* [Hey That's Mine](https://www.curseforge.com/minecraft/mc-mods/htm) - Container trust system.
 
 ## QOL
 * [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes) - More sensible ratios of crafting stairs and trapdoors.
