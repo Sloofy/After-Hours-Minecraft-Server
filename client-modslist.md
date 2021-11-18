@@ -67,6 +67,10 @@ Go to [entire mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) - Horse health and your food are displayed at the same time, jump bar appears when jumping.
 * [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - Fixes transparent gaps in held items.
 * [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/) - Biome-specific water colours, similar to that of Bedrock edition.
+* [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) - Outer skin layer is rendered as 3D.
+* [Wavey Capes](https://www.curseforge.com/minecraft/mc-mods/waveycapes) - Makes capes a little cooler by having them wave around instead of being static.
+* [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - Fixes the transparent lines in specific item models.
+* [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain) - Sandstorms, rain, and snow improved.
 
 ### Audio
 * [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - More dynamic footsteps.
@@ -80,8 +84,19 @@ Go to [entire mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [SimplerHarvest](https://www.curseforge.com/minecraft/mc-mods/simplerharvest/) - Right-click to harvest. 
 * [Adorn](https://modrinth.com/mod/adorn) - Furniture! Chairs! Sofas! Kitchens! Oh my!
 
+## Optifine Feature Uplift
+* [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) - Animated texture support.
+* [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) - Custom item texture support.
+* [Colormatica](https://www.curseforge.com/minecraft/mc-mods/colormatic) - Custom colour support.
+* [ConnectedTexturesMod for Fabric](https://www.curseforge.com/minecraft/mc-mods/ctm-fabric) - Connected textures support.
+* [Custom Entity Models (CEM)](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) - Custom entity models support.
+* [MinecraftCapes Mod](https://www.curseforge.com/minecraft/mc-mods/minecraftcapes-mod) - Custom capes support.
+* [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) - Dynamic lights.
+* [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - Zoom functionality
+
 ## Miscellaneous
 * [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater) - Come on, do I need to explain this one? (Installable clientside)
 * [LambdaControls](https://modrinth.com/mod/lambdacontrols) - Controller support.
 * [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) - Brings forward more Optifine-like features to Sodium.
 * [Your Options Shall Be Respected (YOSBR)](https://www.curseforge.com/minecraft/mc-mods/yosbr) - Keeps your settings when updating the modpack.
+* [Cake Chomps](https://www.curseforge.com/minecraft/mc-mods/cake-chomps-fabric) - Added cake eating immersion.
