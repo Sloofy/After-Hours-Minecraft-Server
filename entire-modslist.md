@@ -27,7 +27,7 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload) - Makes language switching instant.
 * [Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache) - Caches crafting and furnace recipes to reduce lag on bulk exchanges.
 
-## Bug-fixes
+## Bug Fixes
 * [Wither Cage Fix](https://www.curseforge.com/minecraft/mc-mods/wither-cage-fix) - Withers no longer forget which mob they are targetting when unloaded (creating easier Wither cages)
 * [Fabrification](https://www.curseforge.com/minecraft/mc-mods/fabrication) - Various tweaks and small features.
 * [Keep Head Names](https://modrinth.com/mod/keepheadnames) - Keep player names on placement of head and while retrieving.
@@ -38,7 +38,7 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Boat Fall](https://modrinth.com/mod/boat-fall) - Players and boats will now incur appropriate fall damage.
 * [On Soul Fire](https://www.curseforge.com/minecraft/mc-mods/on-soul-fire) - Gives soul fire actual unique properties, like rendering a blue flame.
 
-## System administration
+## System Administration
 * [LuckPerms](https://github.com/lucko/LuckPerms) - Management of server permissions.
 * [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater) - Come on, do I need to explain this one?
 * [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - In-game Minecraft map editor.
@@ -48,6 +48,7 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Flan](https://www.curseforge.com/minecraft/mc-mods/flan) - Land claiming systems.
 * [Styled Player List](https://modrinth.com/mod/styledplayerlist) - Change the player list when holding tab to something more stylized.
 * [Hey That's Mine](https://www.curseforge.com/minecraft/mc-mods/htm) - Container trust system.
+* [Textile Backups](https://www.curseforge.com/minecraft/mc-mods/textile-backup) - Provides backup systems.
 
 ## QOL
 * [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes) - More sensible ratios of crafting stairs and trapdoors.
@@ -72,7 +73,7 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Dual Riders](https://www.curseforge.com/minecraft/mc-mods/dual-riders) - Saddle up with two people on a horse!
 * [Snow Under Trees for Fabric](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric) - Cold biomes will allow for snow underneath trees.
 
-## Gameplay features
+## Gameplay Features
 * [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - Enables proximity voice chat.
 * [Universial Graves](https://modrinth.com/mod/universal-graves) - Players drop graves where they died.
 * [BetterSleeping](https://www.curseforge.com/minecraft/mc-mods/bettersleeping) - Voting process to skip the night and provide slight temporary buffs upon sleeping.
@@ -95,6 +96,7 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish) - Overhauls fishing and adds new content, to boot! 
 * [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric) - New jobs, trades, and workbenches! 
 * [More Banner Features](https://www.curseforge.com/minecraft/mc-mods/more-banner-features) - Offer more things to do with banners. 
+* [Grim's Transportables](https://www.curseforge.com/minecraft/mc-mods/grims-transportables) - Adds rideable carriages and new rail types.
 
 ## Cosmetic
 ### Visual
@@ -120,7 +122,7 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 ### Audio
 * [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - More dynamic footsteps.
 * [Charmonium](https://www.curseforge.com/minecraft/mc-mods/charmonium) - Ambient sound control.
-* [Dynamic Sound Filters (fork)](https://gitlab.com/mikenrafter1/mc-dyn-sfx) - Implement echo and muffles audio while underwater.
+* [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) - Provides realistic sound attenuation, reverberation, and absorption through blocks.
 * [Extra Sounds](https://modrinth.com/mod/extrasounds) - Extra UI sound effects.
 
 ## Optifine Feature Uplift
