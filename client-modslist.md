@@ -26,7 +26,7 @@ Go to [entire mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) - Stops rendering entities that are behind a wall.
 * [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload) - Makes language switching instant.
 
-## Gameplay features
+## Gameplay Features
 * [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next) - Convenient inventory and storage sorting solution.
 * [Emotecraft](https://modrinth.com/mod/emotecraft) - Perform and create your own emotes.
 * [OK Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - Allows for Optifine-like zooming controls.
@@ -77,7 +77,7 @@ Go to [entire mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) - Provides realistic sound attenuation, reverberation, and absorption through blocks.
 * [Extra Sounds](https://modrinth.com/mod/extrasounds) - Extra UI sound effects.
 
-## Server compatibility
+## Server Compatibility
 * [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) - Couple the usage of doors, fence gates, and trapdoors. 
 * [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - Enables proximity voice chat.
 * [SimplerHarvest](https://www.curseforge.com/minecraft/mc-mods/simplerharvest/) - Right-click to harvest. 
