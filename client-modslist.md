@@ -74,7 +74,7 @@ Go to [entire mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 ### Audio
 * [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - More dynamic footsteps.
 * [Charmonium](https://www.curseforge.com/minecraft/mc-mods/charmonium) - Ambient sound control.
-* [Dynamic Sound Filters (fork)](https://gitlab.com/mikenrafter1/mc-dyn-sfx) - Implement echo and muffles audio while underwater.
+* [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) - Provides realistic sound attenuation, reverberation, and absorption through blocks.
 * [Extra Sounds](https://modrinth.com/mod/extrasounds) - Extra UI sound effects.
 
 ## Server compatibility
@@ -82,6 +82,7 @@ Go to [entire mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - Enables proximity voice chat.
 * [SimplerHarvest](https://www.curseforge.com/minecraft/mc-mods/simplerharvest/) - Right-click to harvest. 
 * [Adorn](https://modrinth.com/mod/adorn) - Furniture! Chairs! Sofas! Kitchens! Oh my!
+* [Grim's Transportables](https://www.curseforge.com/minecraft/mc-mods/grims-transportables) - Adds rideable carriages and new rail types.
 
 ## Optifine Feature Uplift
 * [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) - Animated texture support.
