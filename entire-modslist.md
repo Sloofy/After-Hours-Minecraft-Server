@@ -20,8 +20,7 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) - Sets the FPS to 1 when game is not focused.
 * [Hydrogen](https://github.com/CaffeineMC/hydrogen-fabric) - Optimizes memory usage.
 * [Krypton](https://github.com/astei/krypton) - Optimizes networking slack.
-* [LazyDFU](https://modrinth.com/mod/lazydfu) - Do not wake up DataFixerUpper unless needed to for bootup (i.e. migration for newer MC versions).
-* [Enhanced Block Entities](https://modrinth.com/mod/ebe) - Improves block entities lag by using baked block models rather than entity models.
+* [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) - Improves block entities lag by using baked block models rather than entity models.
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) - Optimizes memory usage (again!).
 * [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) - Stops rendering entities that are behind a wall.
 * [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload) - Makes language switching instant.
@@ -30,13 +29,12 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 ## Bug Fixes
 * [Wither Cage Fix](https://www.curseforge.com/minecraft/mc-mods/wither-cage-fix) - Withers no longer forget which mob they are targetting when unloaded (creating easier Wither cages)
 * [Fabrification](https://www.curseforge.com/minecraft/mc-mods/fabrication) - Various tweaks and small features.
-* [Keep Head Names](https://modrinth.com/mod/keepheadnames) - Keep player names on placement of head and while retrieving.
 * [WorldBorderFix](https://modrinth.com/mod/WorldBorderFix) - Fixes seeing Overworld dimension world border regardless of dimension.
 * [FabricCrossDimTPFix](https://modrinth.com/mod/FabricCrossDimTPFix) - Fixes a bug where the player doesn't get sent their XP and Potion effects on cross dimensional teleport. 
 * [Illegal Stack Fixer](https://www.curseforge.com/minecraft/mc-mods/illegal-stack-fixer) - Detects invalid stacks from chests-like blocks and entities with storage upon any non-creative player opening the inventory.
 * [Chunk Saving Fix](https://www.curseforge.com/minecraft/mc-mods/chunk-saving-fix) - World gen from far away will not cut off structures / trees.
-* [Boat Fall](https://modrinth.com/mod/boat-fall) - Players and boats will now incur appropriate fall damage.
 * [On Soul Fire](https://www.curseforge.com/minecraft/mc-mods/on-soul-fire) - Gives soul fire actual unique properties, like rendering a blue flame.
+* [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric) - A bunch of miscellaneous patches for Minecraft.
 
 ## System Administration
 * [LuckPerms](https://github.com/lucko/LuckPerms) - Management of server permissions.
