@@ -17,20 +17,18 @@ Mods with a ‡ may be installed on the client, but are not necessary.
 * [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) - Lighting engine optimizations.
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - General purpose server optimizations.
 * [Krypton](https://github.com/astei/krypton) - Optimizes networking slack.
-* [LazyDFU](https://modrinth.com/mod/lazydfu) - Do not wake up DataFixerUpper unless needed to for bootup (i.e. migration for newer MC versions).
 * ‡[FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) - Optimizes memory usage. 
 * [Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache) - Caches crafting and furnace recipes to reduce lag on bulk exchanges.
 
 ## Bug Fixes
 * [Wither Cage Fix](https://www.curseforge.com/minecraft/mc-mods/wither-cage-fix) - Withers no longer forget which mob they are targetting when unloaded (creating easier Wither cages)
 * [Fabrification](https://www.curseforge.com/minecraft/mc-mods/fabrication) - Various tweaks and small features.
-* [Keep Head Names](https://modrinth.com/mod/keepheadnames) - Keep player names on placement of head and while retrieving.
 * [WorldBorderFix](https://modrinth.com/mod/WorldBorderFix) - Fixes seeing Overworld dimension world border regardless of dimension.
 * [FabricCrossDimTPFix](https://modrinth.com/mod/FabricCrossDimTPFix) - Fixes a bug where the player doesn't get sent their XP and Potion effects on cross dimensional teleport. 
 * [Illegal Stack Fixer](https://www.curseforge.com/minecraft/mc-mods/illegal-stack-fixer) - Detects invalid stacks from chests-like blocks and entities with storage upon any non-creative player opening the inventory.
 * [Chunk Saving Fix](https://www.curseforge.com/minecraft/mc-mods/chunk-saving-fix) - World gen from far away will not cut off structures / trees.
-* [Boat Fall](https://modrinth.com/mod/boat-fall) - Players and boats will now incur appropriate fall damage.
 * †[On Soul Fire](https://www.curseforge.com/minecraft/mc-mods/on-soul-fire) - Gives soul fire actual unique properties, like rendering a blue flame.
+* [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric) - A bunch of miscellaneous patches for Minecraft.
 
 ## System Administration
 * [LuckPerms](https://github.com/lucko/LuckPerms) - Management of server permissions.
