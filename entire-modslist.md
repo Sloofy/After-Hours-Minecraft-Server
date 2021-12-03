@@ -32,7 +32,6 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [WorldBorderFix](https://modrinth.com/mod/WorldBorderFix) - Fixes seeing Overworld dimension world border regardless of dimension.
 * [FabricCrossDimTPFix](https://modrinth.com/mod/FabricCrossDimTPFix) - Fixes a bug where the player doesn't get sent their XP and Potion effects on cross dimensional teleport. 
 * [Illegal Stack Fixer](https://www.curseforge.com/minecraft/mc-mods/illegal-stack-fixer) - Detects invalid stacks from chests-like blocks and entities with storage upon any non-creative player opening the inventory.
-* [Chunk Saving Fix](https://www.curseforge.com/minecraft/mc-mods/chunk-saving-fix) - World gen from far away will not cut off structures / trees.
 * [On Soul Fire](https://www.curseforge.com/minecraft/mc-mods/on-soul-fire) - Gives soul fire actual unique properties, like rendering a blue flame.
 * [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric) - A bunch of miscellaneous patches for Minecraft.
 
