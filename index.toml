@@ -106,6 +106,11 @@ hash = "5b17699a5edf9b5d8d53f67181bfe6e7a635b3f7c6681a3b55d47f0333ac7ae3"
 metafile = true
 
 [[files]]
+file = "mods/on-soul-fire.toml"
+hash = "4329dba71490aea1c7bac690c4f070a92b7372b32740a2fd5d476b0fb8ee79f6"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.toml"
 hash = "96b85b9cc5fe2ec2da95c8df1550c6bfbdf6a07bc50b6bc1ceda026962b0b91c"
 metafile = true
@@ -128,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-fabric.toml"
 hash = "1019b828fe3aa5b7fe0c3265e31dd1249e2ff69883970655da684d6e85be5256"
+metafile = true
+
+[[files]]
+file = "mods/vanessence.toml"
+hash = "77dea945e8487a6584215e6f1d109c310df7de6cd154cd68cc3a6b9c3945c649"
 metafile = true
 
 [[files]]
