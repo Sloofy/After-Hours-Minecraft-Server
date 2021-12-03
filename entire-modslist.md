@@ -49,7 +49,6 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Textile Backups](https://www.curseforge.com/minecraft/mc-mods/textile-backup) - Provides backup systems.
 
 ## QOL
-* [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes) - More sensible ratios of crafting stairs and trapdoors.
 * [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) - Couple the usage of doors, fence gates, and trapdoors.
 * [SimplerHarvest](https://www.curseforge.com/minecraft/mc-mods/simplerharvest/) - Right-click to harvest. 
 * [Better Signs & Frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames) - More intuitive signs, like text editing and accessing chests hidden by signs. 
@@ -63,7 +62,6 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Discerning Furnaces](https://www.curseforge.com/minecraft/mc-mods/discerning-furnace) - Unsmeltable items no longer go into the input slot of a furnace.
 * [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper-fabric) - Feather falling enchantments no longer trample crops.
 * [Paradox Slabs](https://modrinth.com/mod/paradox-slabs) - Allows only cutting half of a slab, not the full slab block.
-* [Splash Concrete](https://www.curseforge.com/minecraft/mc-mods/splash-concrete) - Concrete can be made by using splash water bottles.
 * [Whose Pet is This?](https://www.curseforge.com/minecraft/mc-mods/whose-pet-is-this) - Figure out who is the owner of the pet you're looking at. Most likely Ducksquack's.
 * [Pettable](https://modrinth.com/mod/pettable) - You know it, baby. Pet animals with shift right-click.
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) - Visualizes hunger and saturation while holding food.
