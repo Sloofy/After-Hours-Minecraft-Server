@@ -1,5 +1,6 @@
 # After Hours Minecraft Server
 
+# Do not merge this branch with master
 
 ## Summary
 This repository contains all the plugins, worlds, and config files used on the After Hours Minecraft server. Here, we hope to keep a public backup.
