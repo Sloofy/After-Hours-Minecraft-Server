@@ -1,0 +1,13 @@
+name = "More Banner Features"
+filename = "morebannerfeatures-1.1.2-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3541/873/morebannerfeatures-1.1.2-1.18.jar"
+hash-format = "murmur2"
+hash = "3930538929"
+
+[update]
+[update.curseforge]
+file-id = 3541873
+project-id = 515000

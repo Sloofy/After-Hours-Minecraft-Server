@@ -1,0 +1,13 @@
+name = "Emotecraft"
+filename = "emotecraft-2.1-SNAPSHOT-build.8-bukkit.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.8/emotecraft-2.1-SNAPSHOT-build.8-bukkit.jar"
+hash-format = "sha512"
+hash = "5d8e45fcd1111cce40df617fb38b7a693763d81c37097328641283f2e6c08180d161aed8916970af17d8c56216548199e218aba8c9cdd59d1bad3df757c12391"
+
+[update]
+[update.modrinth]
+mod-id = "pZ2wrerK"
+version = "9mCzFR23"
