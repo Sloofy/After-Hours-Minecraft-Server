@@ -1,0 +1,13 @@
+name = "AH! Real Minecraft"
+author = "Sloofy"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "071073b2e1dd21af6be7dffa1f34aa03a3fad8f7894813da5a6f839cd170b3e5"
+
+[versions]
+fabric = "0.12.8"
+minecraft = "1.18"

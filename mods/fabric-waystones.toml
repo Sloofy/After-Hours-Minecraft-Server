@@ -1,0 +1,13 @@
+name = "Fabric Waystones"
+filename = "wraith-waystones-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/970/wraith-waystones-2.3.1.jar"
+hash-format = "murmur2"
+hash = "1664859674"
+
+[update]
+[update.curseforge]
+file-id = 3542970
+project-id = 410902
