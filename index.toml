@@ -11,6 +11,31 @@ hash = "253800067c95c8c871e047518277be6dea81fd91790e196158820d19d1e0d831"
 metafile = true
 
 [[files]]
+file = "mods/axolotl-bucket-fix.toml"
+hash = "22478251efbefe2373847219b119db349cefcff114cfbe5107554d6ff41e7ec0"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.toml"
+hash = "93dc278b289483148e3474c88243f8fa640a1be7934bd70bb4dbcb9619a1711f"
+metafile = true
+
+[[files]]
+file = "mods/better-signs-and-frames.toml"
+hash = "725c2bc13db979b5b2ded2dd62341858f51bd5853b48ddc9f35ccd0cbd162cf6"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.toml"
+hash = "84d2ed9556dd7cc84634886dd979644d2a0d6bdb055a76076452452fd89d6ee9"
+metafile = true
+
+[[files]]
+file = "mods/bountiful-fabric.toml"
+hash = "cfef23bb4d24b8d5019556770374b22c0a5865bdc5e959ef034209ff6d2d3c99"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.toml"
 hash = "528609fda26cd9ab08ae12e361beebf65ce6a3ab771b7e263b3b2d7a01332f83"
 metafile = true
@@ -21,8 +46,13 @@ hash = "3673dd85d0ebecbef0501f2506206279fedc113070ee32a98fbe0690ba4e2aab"
 metafile = true
 
 [[files]]
+file = "mods/continuity.toml"
+hash = "c39a0cc43a6722cfff7bc8c90233da3757551becf1b4dacc4e425ae0cefaf2d4"
+metafile = true
+
+[[files]]
 file = "mods/croptopia-fabric.toml"
-hash = "c4681fa5286963cf437d19392fbfbe99f2afc514fd3c92626eec4bb8b5ad1f24"
+hash = "30bc38121ea99f6e611c4ac53751d1df3cba58a272da16235322f334727dfef2"
 metafile = true
 
 [[files]]
@@ -46,13 +76,18 @@ hash = "e1e489ae4e66ec2e42d0aca91fa7c16cec0ecb835c3f1c7dab86f4372f2b2421"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "2e585b6ce11bc8f187a3178debba7086dfebdd37c667aee1dd46d627ab94e083"
+metafile = true
+
+[[files]]
 file = "mods/fabric-waystones.toml"
 hash = "a29b4b4bd2ffd1f3ae405e36fc2d3a225dd19529dfb45fff7d5c8681b019f1fd"
 metafile = true
 
 [[files]]
 file = "mods/fabrication.toml"
-hash = "a7af4618bcf19057c2a7c1d6455f0145bbc57c8adf9035a87c5556217e5f7f93"
+hash = "d5bc582b567077762b35026395f7ace569abdd690db588c958cae0488f14a587"
 metafile = true
 
 [[files]]
@@ -83,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.toml"
 hash = "865f2adc57260df8f53e9f3444bf918b7af79b093008533256c61a6fb05c75d4"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.toml"
+hash = "e39d2fb6e9834ae31831820662e521eb1e225efb2140a2205a229818f17858d5"
 metafile = true
 
 [[files]]
@@ -132,17 +172,27 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.toml"
-hash = "96b85b9cc5fe2ec2da95c8df1550c6bfbdf6a07bc50b6bc1ceda026962b0b91c"
+hash = "196ed7bf5f776ec4232ecb317ab9b4ad396bac708a26945e1eef645541a6e1a1"
+metafile = true
+
+[[files]]
+file = "mods/recipe-cache.toml"
+hash = "cd4b936dd60465bd7ab3f739a233bcf770d0a7d0bc7b3ef96292b6bf9348ad3d"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "49ae0f08fb50dc90abd67e6f3469cde2f221adbf060f51eae51c5f0b827dfcc0"
+hash = "548f01f02490fef2f696e1ebaddf654bd9d3f0484dfce021adeaedefd23bdb23"
 metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
 hash = "03913aad4c0d66a78d5adeaf03d409a85a4d165fbcae9382965d2bb5b52fcaeb"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "32e7f9a21560045820af857bd45d7d9ba5210f4ea3952bdc0dbd307544f7ddc6"
 metafile = true
 
 [[files]]
@@ -158,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-fabric.toml"
 hash = "1019b828fe3aa5b7fe0c3265e31dd1249e2ff69883970655da684d6e85be5256"
+metafile = true
+
+[[files]]
+file = "mods/suitably-stackable-stew.toml"
+hash = "e317fe00da46fa0f0ed51c5fef38cedd42aaad07c43ee471c38f9c0a93d4411a"
 metafile = true
 
 [[files]]

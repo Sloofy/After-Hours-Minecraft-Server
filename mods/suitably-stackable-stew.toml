@@ -1,0 +1,13 @@
+name = "Suitably Stackable Stew"
+filename = "suitablystackablestew-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3345/11/suitablystackablestew-1.1.2.jar"
+hash-format = "murmur2"
+hash = "1586470632"
+
+[update]
+[update.curseforge]
+file-id = 3345011
+project-id = 398963

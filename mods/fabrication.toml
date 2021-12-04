@@ -1,13 +1,13 @@
 name = "Fabrication"
-filename = "fabrication-1.18-2.2.0-exp3.jar"
+filename = "fabrication-1.18-2.2.1-exp4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3545/936/fabrication-1.18-2.2.0-exp3.jar"
+url = "https://edge.forgecdn.net/files/3549/487/fabrication-1.18-2.2.1-exp4.jar"
 hash-format = "murmur2"
-hash = "3765074426"
+hash = "549037205"
 
 [update]
 [update.curseforge]
-file-id = 3545936
+file-id = 3549487
 project-id = 414445
