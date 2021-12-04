@@ -1,0 +1,13 @@
+name = "More Villagers [Fabric]"
+filename = "morevillagers-FABRIC-1.18-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3547/973/morevillagers-FABRIC-1.18-3.0.0.jar"
+hash-format = "murmur2"
+hash = "4149278352"
+
+[update]
+[update.curseforge]
+file-id = 3547973
+project-id = 486080
