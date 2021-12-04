@@ -1,0 +1,13 @@
+name = "Adorn"
+filename = "Adorn-3.0.0-rc.1+1.18-rc3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3538/575/Adorn-3.0.0-rc.1+1.18-rc3-fabric.jar"
+hash-format = "murmur2"
+hash = "3279969877"
+
+[update]
+[update.curseforge]
+file-id = 3538575
+project-id = 320215

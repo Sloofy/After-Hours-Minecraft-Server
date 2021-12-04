@@ -6,6 +6,11 @@ hash = "d8fc3c9598fba742fc624cb5bb63648f83cc3367e47df609901d7c8174c26d15"
 metafile = true
 
 [[files]]
+file = "mods/adorn.toml"
+hash = "a9635f08febdadd94ce3ae156f63f25929123ae9837dcbbd3bcca7766224923c"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "253800067c95c8c871e047518277be6dea81fd91790e196158820d19d1e0d831"
 metafile = true
