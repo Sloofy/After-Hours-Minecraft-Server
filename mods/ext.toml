@@ -1,0 +1,13 @@
+name = "Extension"
+filename = "extension-1.5+1.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iHKucfu7/versions/1.5+1.18/extension-1.5+1.18.jar"
+hash-format = "sha512"
+hash = "4f56d82a0a29c45e72153eebd80c130886f9493c4bf723e4afad3bd7b5b851269941dc2a68ae74a73fe5918cba4bc5788701f569a657ade252937e7d2b523f5b"
+
+[update]
+[update.modrinth]
+mod-id = "iHKucfu7"
+version = "WPYQldm0"
