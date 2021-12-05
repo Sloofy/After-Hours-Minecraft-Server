@@ -56,11 +56,6 @@ hash = "3673dd85d0ebecbef0501f2506206279fedc113070ee32a98fbe0690ba4e2aab"
 metafile = true
 
 [[files]]
-file = "mods/consistencyplus.toml"
-hash = "6c9ef3422269a5617fec2b2cb3fa2609f7597a2d0060d1171df958a215c82dc6"
-metafile = true
-
-[[files]]
 file = "mods/continuity.toml"
 hash = "c39a0cc43a6722cfff7bc8c90233da3757551becf1b4dacc4e425ae0cefaf2d4"
 metafile = true
