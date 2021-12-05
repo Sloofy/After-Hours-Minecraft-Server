@@ -16,6 +16,11 @@ hash = "253800067c95c8c871e047518277be6dea81fd91790e196158820d19d1e0d831"
 metafile = true
 
 [[files]]
+file = "mods/architectury-fabric.toml"
+hash = "85fcebe729646abf8af1451dfe7feab6b062860cf9dc2e82f6f4536dea4487f6"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-bucket-fix.toml"
 hash = "22478251efbefe2373847219b119db349cefcff114cfbe5107554d6ff41e7ec0"
 metafile = true
