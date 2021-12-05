@@ -1,0 +1,13 @@
+name = "Inventory Profiles Next"
+filename = "InventoryProfilesNext-fabric-1.18-1.1.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18-1.1.9/InventoryProfilesNext-fabric-1.18-1.1.9.jar"
+hash-format = "sha512"
+hash = "e8a17ac0eb224969a458caf0e7ed85bfd89e511f2f9481deba77ecb18a17592e1a3dddc2b2f0da7c403ce57afbf6a350f1e85268d48e206f5126ee18654805ae"
+
+[update]
+[update.modrinth]
+mod-id = "O7RBXm3n"
+version = "TMJX92qF"
