@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia-fabric.toml"
-hash = "30bc38121ea99f6e611c4ac53751d1df3cba58a272da16235322f334727dfef2"
+hash = "9cfb1518e6c247431c2449cf1584352bdbab075303984d9b1eeebe270d7bc5c2"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.toml"
-hash = "a29b4b4bd2ffd1f3ae405e36fc2d3a225dd19529dfb45fff7d5c8681b019f1fd"
+hash = "7beeab419d62a22b70a499deb18b21ac2c57faf58ba7b042b748f413a45d1968"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "baaa619803068e18f5628888c4f30bf9784f2256c94def72faa998fee24af895"
+hash = "d230e5c3c3ee706d07ef0a6740c68873d50418efa72e12c960521710ac793506"
 metafile = true
 
 [[files]]
@@ -171,6 +171,16 @@ hash = "f394f429639b7f7dae91db6bcc4ee4509db9d6679249f39fbb636fb2021b7450"
 metafile = true
 
 [[files]]
+file = "mods/litematica.toml"
+hash = "2ec28e50887f6322c8f47eac605e649423a6331aac43764df7f5a327f505b46d"
+metafile = true
+
+[[files]]
+file = "mods/malilib.toml"
+hash = "a0b0d6b6e4d8ec2a80c60665ae6f4d2a7d0c3b7dbab75ef9f03dbf616a5b17cc"
+metafile = true
+
+[[files]]
 file = "mods/minecraftcapes-mod.toml"
 hash = "d8b38e8b5e6cae36616b3f23f7448c6a4bb97be9944f798167ac90dc0f489700"
 metafile = true
@@ -196,6 +206,11 @@ hash = "507fb6185c31ff0a3adf2669369ca32a832fd336fcf8019020d144ef064e855f"
 metafile = true
 
 [[files]]
+file = "mods/npc-variety-port.toml"
+hash = "2401691e08aad82f7d2e136d086361608510dca5bd43ebd3e6074b10d85396a4"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.toml"
 hash = "5b17699a5edf9b5d8d53f67181bfe6e7a635b3f7c6681a3b55d47f0333ac7ae3"
 metafile = true
@@ -207,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.toml"
-hash = "196ed7bf5f776ec4232ecb317ab9b4ad396bac708a26945e1eef645541a6e1a1"
+hash = "356c07fc9eeebf4cf29db1e08f32480cf1c4755d3132dbc65db53ea04053a8fe"
 metafile = true
 
 [[files]]
@@ -217,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "548f01f02490fef2f696e1ebaddf654bd9d3f0484dfce021adeaedefd23bdb23"
+hash = "2e074ebc473b8c449bd68792887779c33157f2f1a380d3d1afa9951d98a2257b"
 metafile = true
 
 [[files]]
@@ -272,5 +287,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "3d628fbce2778065a737a83f073850f4b294685028328381c08018893f65309d"
+hash = "0454fb006fb6bb5930f8cbb7a7ae6f1c1aca7527191e86d257dc11925e94a3ea"
 metafile = true

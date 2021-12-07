@@ -1,0 +1,13 @@
+name = "NPC Variety - Port (Fabric)"
+filename = "npc-variety-1.18-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3550/881/npc-variety-1.18-2.2.1.jar"
+hash-format = "murmur2"
+hash = "3732793738"
+
+[update]
+[update.curseforge]
+file-id = 3550881
+project-id = 476200

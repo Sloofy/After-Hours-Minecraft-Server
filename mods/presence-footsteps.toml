@@ -1,13 +1,13 @@
 name = "Presence Footsteps"
-filename = "PresenceFootsteps-r35-1.17.jar"
+filename = "PresenceFootsteps-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3548/844/PresenceFootsteps-r35-1.17.jar"
+url = "https://edge.forgecdn.net/files/3551/598/PresenceFootsteps-1.4.0.jar"
 hash-format = "murmur2"
-hash = "3561403638"
+hash = "1515318399"
 
 [update]
 [update.curseforge]
-file-id = 3548844
+file-id = 3551598
 project-id = 334259
