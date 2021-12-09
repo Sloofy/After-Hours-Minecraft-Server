@@ -41,6 +41,11 @@ hash = "84d2ed9556dd7cc84634886dd979644d2a0d6bdb055a76076452452fd89d6ee9"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.toml"
+hash = "4b906b3eb87279cf2bf36676da5a423664ac769eb61c72fd9cfc6d860aab4753"
+metafile = true
+
+[[files]]
 file = "mods/bountiful-fabric.toml"
 hash = "cfef23bb4d24b8d5019556770374b22c0a5865bdc5e959ef034209ff6d2d3c99"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/falling-leaves-fabric.toml"
 hash = "e8a4d3bfde592a82183db4faa6d8b38a96c00d87473c425cbd2d5099350a3ccb"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.toml"
+hash = "8a40493f3918fe2b73aeded4e0e38043df66934f6ebb40a242c89d31f5097cff"
 metafile = true
 
 [[files]]
