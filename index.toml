@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "85fcebe729646abf8af1451dfe7feab6b062860cf9dc2e82f6f4536dea4487f6"
+hash = "588462201d75ce217b2d73c08932fc2b04d31632399f49d31a9b46a1a7e53b71"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.toml"
-hash = "7beeab419d62a22b70a499deb18b21ac2c57faf58ba7b042b748f413a45d1968"
+hash = "c12300aa7809973ef0f89d328d108d1aac0c3a29a634448cafa41161ea81bfff"
 metafile = true
 
 [[files]]
@@ -173,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/litematica.toml"
 hash = "2ec28e50887f6322c8f47eac605e649423a6331aac43764df7f5a327f505b46d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "511fe49c8aa17b69c981e1cc3f14d16bab0e7aa9248dcc1dc8cee01c9939d7ab"
 metafile = true
 
 [[files]]
@@ -267,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanessence.toml"
-hash = "77dea945e8487a6584215e6f1d109c310df7de6cd154cd68cc3a6b9c3945c649"
+hash = "288dadf2ffbfbb47564da4e82531b5ce2230f825e95ec1b9ff8c4c9da451b7d8"
 metafile = true
 
 [[files]]
@@ -283,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/waveycapes.toml"
 hash = "29e4208fe2c253ea42464f637d98f5382beab7ebf0a2cf6b8b31a3f14c276d21"
+metafile = true
+
+[[files]]
+file = "mods/wolves-with-armor.toml"
+hash = "f92cd294299c6bc053eeb34541c934879a0bc204d37d638de74574fc9a98f970"
 metafile = true
 
 [[files]]
