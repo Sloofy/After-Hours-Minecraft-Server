@@ -27,12 +27,17 @@ metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.toml"
-hash = "93dc278b289483148e3474c88243f8fa640a1be7934bd70bb4dbcb9619a1711f"
+hash = "628ee5a0eb26c46926c80bf43dacd2300a2bc722169c4d7aa2bb4892c77ad913"
 metafile = true
 
 [[files]]
 file = "mods/better-signs-and-frames.toml"
 hash = "725c2bc13db979b5b2ded2dd62341858f51bd5853b48ddc9f35ccd0cbd162cf6"
+metafile = true
+
+[[files]]
+file = "mods/bettersleeping-revived.toml"
+hash = "10473d974c413c2d18dd0a3f82ed318e6fdb9d0a98309a273dde2c0ba723924d"
 metafile = true
 
 [[files]]
@@ -56,6 +61,11 @@ hash = "528609fda26cd9ab08ae12e361beebf65ce6a3ab771b7e263b3b2d7a01332f83"
 metafile = true
 
 [[files]]
+file = "mods/cloth-api.toml"
+hash = "3c329350a1ade79fa329aa932188659dc361d4917a0fcb07159b5eeb240f97f2"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "3673dd85d0ebecbef0501f2506206279fedc113070ee32a98fbe0690ba4e2aab"
 metafile = true
@@ -66,8 +76,18 @@ hash = "c39a0cc43a6722cfff7bc8c90233da3757551becf1b4dacc4e425ae0cefaf2d4"
 metafile = true
 
 [[files]]
+file = "mods/couplings.toml"
+hash = "06ab0f703732dbc14a73e18e367fe50af4e51978ac08f6557ba0eaf651ac0add"
+metafile = true
+
+[[files]]
 file = "mods/croptopia-fabric.toml"
 hash = "9cfb1518e6c247431c2449cf1584352bdbab075303984d9b1eeebe270d7bc5c2"
+metafile = true
+
+[[files]]
+file = "mods/discerning-furnace.toml"
+hash = "37dddc9f1a3f6c1faab8ce615606dbf0a9ce8643089afd5b567558c9ef03bc67"
 metafile = true
 
 [[files]]
@@ -102,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.toml"
-hash = "c12300aa7809973ef0f89d328d108d1aac0c3a29a634448cafa41161ea81bfff"
+hash = "dd2fa7cfd5af99b77c8eece128c327266d3e5f4b2f7c36f47dd02d14c4fb611f"
 metafile = true
 
 [[files]]
@@ -247,12 +267,22 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "2e074ebc473b8c449bd68792887779c33157f2f1a380d3d1afa9951d98a2257b"
+hash = "cfcd4af65c0bfd1eb2bddc82df166883f19b6283ee65e7b5a19ecda2a2dd0a32"
+metafile = true
+
+[[files]]
+file = "mods/sit.toml"
+hash = "c48e69ae50f8b2feb1c6e2508ef24820ea022e8cc74fc7d492da43976cce6d02"
 metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
 hash = "03913aad4c0d66a78d5adeaf03d409a85a4d165fbcae9382965d2bb5b52fcaeb"
+metafile = true
+
+[[files]]
+file = "mods/slight-gui-modifications.toml"
+hash = "5b33de3c55d5c60d41ac57d72b7697b6e6ad8795de481895b3f0d11e2e0d974a"
 metafile = true
 
 [[files]]
@@ -283,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/vanessence.toml"
 hash = "288dadf2ffbfbb47564da4e82531b5ce2230f825e95ec1b9ff8c4c9da451b7d8"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-fabric.toml"
+hash = "51f0177661df03a5705f63945ab189c225c1f7bd526a57889bccb974b1125dea"
 metafile = true
 
 [[files]]
