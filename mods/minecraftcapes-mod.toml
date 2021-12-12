@@ -1,13 +1,13 @@
 name = "MinecraftCapes Mod"
-filename = "MinecraftCapes Fabric 1.18-11.0.2.jar"
+filename = "MinecraftCapes Fabric 1.18.1-12.0.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3541/881/MinecraftCapes Fabric 1.18-11.0.2.jar"
+url = "https://edge.forgecdn.net/files/3562/498/MinecraftCapes Fabric 1.18.1-12.0.0.jar"
 hash-format = "murmur2"
-hash = "2168861490"
+hash = "458122621"
 
 [update]
 [update.curseforge]
-file-id = 3541881
+file-id = 3562498
 project-id = 359836

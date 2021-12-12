@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "588462201d75ce217b2d73c08932fc2b04d31632399f49d31a9b46a1a7e53b71"
+hash = "6acb793cd97dff83925decbfab9c9e418563c1fe2c84f1972047e7110a39f16f"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.toml"
-hash = "02d74f619293cad9f9c1df56deabd8c4dc9031d3603cc5d6f2acd7b0a7a54454"
+hash = "42ac0504629fc916a7e22463f6a3d4b47df86369e656293c408630f09933fcb7"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraftcapes-mod.toml"
-hash = "d8b38e8b5e6cae36616b3f23f7448c6a4bb97be9944f798167ac90dc0f489700"
+hash = "94a7bac41c30dd5a2613e22704e0209aeec34058cd3f72173bebde2723533a99"
 metafile = true
 
 [[files]]
@@ -272,12 +272,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "e06d65e48b998211d7502965c8a05faa0e34304fa118dd78280df73e5eb7dce4"
+hash = "5e3ea476fe2d4358745c80faa34cdba7bc3f5e929eb69cddcefb783fd49d6f5c"
 metafile = true
 
 [[files]]
 file = "mods/sit.toml"
-hash = "c48e69ae50f8b2feb1c6e2508ef24820ea022e8cc74fc7d492da43976cce6d02"
+hash = "5f3f076981255f3db09a7bc8f7d7c93498cfe21e4ba31e41535650be9f4d1b25"
 metafile = true
 
 [[files]]
@@ -347,5 +347,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "0454fb006fb6bb5930f8cbb7a7ae6f1c1aca7527191e86d257dc11925e94a3ea"
+hash = "ce02b1751c26f55ef1bc34ff83e2674b80806e76b03cd27f87c5ccb2bd42c68c"
 metafile = true

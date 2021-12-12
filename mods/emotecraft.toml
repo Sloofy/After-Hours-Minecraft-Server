@@ -1,13 +1,13 @@
 name = "Emotecraft"
-filename = "emotecraft-2.1-SNAPSHOT-build.8-bukkit.jar"
+filename = "emotecraft-for-MC1.17.1-2.1-SNAPSHOT-build.9-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.8/emotecraft-2.1-SNAPSHOT-build.8-bukkit.jar"
+url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.9/emotecraft-for-MC1.17.1-2.1-SNAPSHOT-build.9-forge.jar"
 hash-format = "sha512"
-hash = "5d8e45fcd1111cce40df617fb38b7a693763d81c37097328641283f2e6c08180d161aed8916970af17d8c56216548199e218aba8c9cdd59d1bad3df757c12391"
+hash = "c6ccda7da96bf04dc01e8290fa8745a6f0bf7b0aca8565f5bc6e6b057f28a6c24641b463aa76d19c36e3c29759b6a76889544c47d09329577b9da90f1e27cacb"
 
 [update]
 [update.modrinth]
 mod-id = "pZ2wrerK"
-version = "9mCzFR23"
+version = "MalHlsZ2"

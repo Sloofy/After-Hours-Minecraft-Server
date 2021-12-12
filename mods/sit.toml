@@ -1,13 +1,13 @@
 name = "FabricSit"
-filename = "FabricSit-1.7.0.jar"
+filename = "FabricSit-1.7.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/eM1KzRjc/versions/1.7.0/FabricSit-1.7.0.jar"
+url = "https://cdn.modrinth.com/data/eM1KzRjc/versions/v1.7.1/FabricSit-1.7.1.jar"
 hash-format = "sha512"
-hash = "a212184cb3983a622a2bdf907454605f96d2c4eea52aab5aa3eb5abcf886cd65c17530124415ad4884d1a83faac38ec3f1949165ac5286ce333b1803d92f5e1c"
+hash = "6238883053171eaa71cff9fa7019737c61d8896bf9369a974a857b7760078dad83ae1e18d4de7b3949e63c0835c0e4d106e8a217db236802e62feeb2a15f49fa"
 
 [update]
 [update.modrinth]
 mod-id = "eM1KzRjc"
-version = "RTR6qRRp"
+version = "DvAglB71"
