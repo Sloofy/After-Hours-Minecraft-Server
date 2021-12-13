@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/discerning-furnace.toml"
-hash = "37dddc9f1a3f6c1faab8ce615606dbf0a9ce8643089afd5b567558c9ef03bc67"
+hash = "74f1d2af206b1e5bd4f4511f79eb8a5cc2b068b88d25ec2236e0799f8486d41f"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "5e3ea476fe2d4358745c80faa34cdba7bc3f5e929eb69cddcefb783fd49d6f5c"
+hash = "642a6faa95f7dd57330935ccfd61af733b5bc1f14506368c3fd854eed7056262"
 metafile = true
 
 [[files]]
