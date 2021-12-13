@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/illuminations.properties"
+hash = "3ac27c38b0a183291ca4d34d1e4f3892086ecadaf4f4099e5a32dfe9cb9e6f2c"
+
+[[files]]
 file = "mods/additional-bars-fabric.toml"
 hash = "d8fc3c9598fba742fc624cb5bb63648f83cc3367e47df609901d7c8174c26d15"
 metafile = true
