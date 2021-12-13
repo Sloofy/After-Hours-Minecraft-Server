@@ -210,11 +210,6 @@ hash = "f394f429639b7f7dae91db6bcc4ee4509db9d6679249f39fbb636fb2021b7450"
 metafile = true
 
 [[files]]
-file = "mods/litematica.toml"
-hash = "2ec28e50887f6322c8f47eac605e649423a6331aac43764df7f5a327f505b46d"
-metafile = true
-
-[[files]]
 file = "mods/lithium.toml"
 hash = "511fe49c8aa17b69c981e1cc3f14d16bab0e7aa9248dcc1dc8cee01c9939d7ab"
 metafile = true
@@ -272,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/recipe-cache.toml"
 hash = "cd4b936dd60465bd7ab3f739a233bcf770d0a7d0bc7b3ef96292b6bf9348ad3d"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "09dc1458f82750e2ed48a1bb45ad41c5c73202b7bcc55e94cfbea79b7e1309c3"
 metafile = true
 
 [[files]]
