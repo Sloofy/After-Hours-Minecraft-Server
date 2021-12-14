@@ -315,6 +315,11 @@ hash = "1019b828fe3aa5b7fe0c3265e31dd1249e2ff69883970655da684d6e85be5256"
 metafile = true
 
 [[files]]
+file = "mods/starlight.toml"
+hash = "c641a4f43b1c98bc9b7931306b55e83477233a4e33febf49ce7f9bebfa058872"
+metafile = true
+
+[[files]]
 file = "mods/suitably-stackable-stew.toml"
 hash = "e317fe00da46fa0f0ed51c5fef38cedd42aaad07c43ee471c38f9c0a93d4411a"
 metafile = true
