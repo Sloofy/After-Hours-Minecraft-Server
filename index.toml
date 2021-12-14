@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia-fabric.toml"
-hash = "9cfb1518e6c247431c2449cf1584352bdbab075303984d9b1eeebe270d7bc5c2"
+hash = "7b7548676771218d48956caca2099252fce23e5a60064185f460f5e06e149dbf"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "511fe49c8aa17b69c981e1cc3f14d16bab0e7aa9248dcc1dc8cee01c9939d7ab"
+hash = "3a8fb7d4258da78b56e3e34f67df5b13f4773496bad7a5806fb603342294753c"
 metafile = true
 
 [[files]]
