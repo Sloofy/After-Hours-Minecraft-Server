@@ -6,7 +6,7 @@ hash = "3ac27c38b0a183291ca4d34d1e4f3892086ecadaf4f4099e5a32dfe9cb9e6f2c"
 
 [[files]]
 file = "mods/additional-bars-fabric.toml"
-hash = "d8fc3c9598fba742fc624cb5bb63648f83cc3367e47df609901d7c8174c26d15"
+hash = "ede3558244abffbc44f0da3f6f4c1271f2d0e3e2c62c677cd2e9698904351e32"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "09dc1458f82750e2ed48a1bb45ad41c5c73202b7bcc55e94cfbea79b7e1309c3"
+hash = "93e3bcfaa398054a3f68c3d8937cf7e7b715876702ea906cf4ee1e493d911518"
 metafile = true
 
 [[files]]

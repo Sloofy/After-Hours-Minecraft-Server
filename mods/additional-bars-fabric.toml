@@ -1,13 +1,13 @@
 name = "Additional Bars [FABRIC]"
-filename = "1.18-additionalbars-2.2.0.jar"
+filename = "1.18.1-additionalbars-2.2.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3543/529/1.18-additionalbars-2.2.0.jar"
+url = "https://edge.forgecdn.net/files/3568/648/1.18.1-additionalbars-2.2.1.jar"
 hash-format = "murmur2"
-hash = "1342074534"
+hash = "1664659427"
 
 [update]
 [update.curseforge]
-file-id = 3543529
+file-id = 3568648
 project-id = 431823
