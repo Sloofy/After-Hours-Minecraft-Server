@@ -1,13 +1,13 @@
 name = "Falling Leaves (Fabric)"
-filename = "fallingleaves-1.8.0+1.18.jar"
+filename = "fallingleaves-1.8.1+1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3543/36/fallingleaves-1.8.0+1.18.jar"
+url = "https://edge.forgecdn.net/files/3569/613/fallingleaves-1.8.1+1.18.1.jar"
 hash-format = "murmur2"
-hash = "3163457435"
+hash = "3212730479"
 
 [update]
 [update.curseforge]
-file-id = 3543036
+file-id = 3569613
 project-id = 417510

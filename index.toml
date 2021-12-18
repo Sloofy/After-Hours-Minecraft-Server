@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia-fabric.toml"
-hash = "7b7548676771218d48956caca2099252fce23e5a60064185f460f5e06e149dbf"
+hash = "f2e1ffa663efbe9525da19b765747036ebf0c5ee0aa8dd80fbe941ef14c9bc78"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.toml"
-hash = "dd2fa7cfd5af99b77c8eece128c327266d3e5f4b2f7c36f47dd02d14c4fb611f"
+hash = "1b9926f8f2d113a8d91017d148f1fe3f3ed2940b9b20c1355b824dc283cdca9e"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-fabric.toml"
-hash = "e8a4d3bfde592a82183db4faa6d8b38a96c00d87473c425cbd2d5099350a3ccb"
+hash = "bb1bcb4d79d2651df2c56e122a2af3e4a38483142f2639061d5d0ed549de1458"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraftcapes-mod.toml"
-hash = "94a7bac41c30dd5a2613e22704e0209aeec34058cd3f72173bebde2723533a99"
+hash = "8dde2f397e6de9987010cde306f659faeb3695e5cc185348f7becad258a4f4ad"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "642a6faa95f7dd57330935ccfd61af733b5bc1f14506368c3fd854eed7056262"
+hash = "a89eda5ccd21078e26c595e0e1996d4052fdde75a8c5e10db29a332fc032f214"
 metafile = true
 
 [[files]]
