@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "65580017b27e0f38290448b991efffd2ebaeb23f1426afccf28cc1c9303e5f0d"
+hash = "b07bf5cc07a80a89ad2bb4a149655a6f7f0d8684c7bc3fda6767040cb6c5b7b9"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "a89eda5ccd21078e26c595e0e1996d4052fdde75a8c5e10db29a332fc032f214"
+hash = "20c449903a3b83b2cd554ed79f62ec18d0b5d603e395d636b0858e70a4ead360"
 metafile = true
 
 [[files]]
