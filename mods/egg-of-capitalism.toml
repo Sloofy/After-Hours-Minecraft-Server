@@ -1,0 +1,13 @@
+name = "Egg Of Capitalism"
+filename = "egg-of-capitalism-mc1.18-3.0-sources-dev.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/llThBwQo/versions/mc1.18-3.0/egg-of-capitalism-mc1.18-3.0-sources-dev.jar"
+hash-format = "sha512"
+hash = "dfbf45e5340cd554268f907823e0efbba7edd012aa77b728b8a7fd2e6101f218baaa535d98ad9ef481b8016b8ab0af2153773e31e1898d9b19ee624bda35a106"
+
+[update]
+[update.modrinth]
+mod-id = "llThBwQo"
+version = "mwt75pjt"

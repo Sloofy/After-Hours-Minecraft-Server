@@ -100,8 +100,18 @@ hash = "a3c3d4f35494103eb96d62ad1e63932d4407c90b7878fdb1d2d1f75e26da1ce4"
 metafile = true
 
 [[files]]
+file = "mods/egg-of-capitalism.toml"
+hash = "52c61d43af43885b5d5f813c8718abcc32a9b52a322d7ca1ee8b6e037cecc373"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.toml"
-hash = "42ac0504629fc916a7e22463f6a3d4b47df86369e656293c408630f09933fcb7"
+hash = "c55dcbf5ab095d3e35fb86097d125e7794496e290e97bc15909c444cc23aa701"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities.toml"
+hash = "08280b7b95f068d0311df8ce7a79d9f33a123369448ad4bccc6f0b98ff799807"
 metafile = true
 
 [[files]]
@@ -115,18 +125,23 @@ hash = "8211b1077ed6d7cc6117a33de703a609300586d6f80e2fb11e1bdba9a4f48084"
 metafile = true
 
 [[files]]
+file = "mods/extrasounds.toml"
+hash = "c508743b094e0b1494cd0ab2c0cce1b77ccb0af2cdfed6766b0aee829a5a6fa7"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "e1e489ae4e66ec2e42d0aca91fa7c16cec0ecb835c3f1c7dab86f4372f2b2421"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "2e585b6ce11bc8f187a3178debba7086dfebdd37c667aee1dd46d627ab94e083"
+hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.toml"
-hash = "1b9926f8f2d113a8d91017d148f1fe3f3ed2940b9b20c1355b824dc283cdca9e"
+hash = "da0c3dacd9d4e818b149a022a41a6a957f200fab56ee2268900df5bc55397345"
 metafile = true
 
 [[files]]
@@ -221,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraftcapes-mod.toml"
-hash = "8dde2f397e6de9987010cde306f659faeb3695e5cc185348f7becad258a4f4ad"
+hash = "eec9004e412b1e914457c48298efa9fec6a14f26bdca6f6e96cf09a7e810ed2b"
 metafile = true
 
 [[files]]
@@ -276,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "20c449903a3b83b2cd554ed79f62ec18d0b5d603e395d636b0858e70a4ead360"
+hash = "b4c78204ffcb525aaaad628188cc1302782e54ca7c0b1646ec4d5933c5810cc0"
 metafile = true
 
 [[files]]
@@ -356,5 +371,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "ce02b1751c26f55ef1bc34ff83e2674b80806e76b03cd27f87c5ccb2bd42c68c"
+hash = "c04587231fa7c6e3ad20e343e4444a4021e26a34c78576a95d6750e8cdbf230d"
 metafile = true

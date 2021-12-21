@@ -1,13 +1,13 @@
 name = "Emotecraft"
-filename = "emotecraft-for-MC1.17.1-2.1-SNAPSHOT-build.9-forge.jar"
+filename = "emotecraft-for-MC1.18.1-2.1-SNAPSHOT-build.10-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.9/emotecraft-for-MC1.17.1-2.1-SNAPSHOT-build.9-forge.jar"
+url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.10/emotecraft-for-MC1.18.1-2.1-SNAPSHOT-build.10-forge.jar"
 hash-format = "sha512"
-hash = "c6ccda7da96bf04dc01e8290fa8745a6f0bf7b0aca8565f5bc6e6b057f28a6c24641b463aa76d19c36e3c29759b6a76889544c47d09329577b9da90f1e27cacb"
+hash = "ae2127dd39e49985bd6cf20f05a1b0930a4fb56e7293732ba39502004f1e3079ec10aa0ffcc923358d14bc2c482c669dd13373e14200acd23a746028757ee7af"
 
 [update]
 [update.modrinth]
 mod-id = "pZ2wrerK"
-version = "MalHlsZ2"
+version = "zCMGFBBB"
