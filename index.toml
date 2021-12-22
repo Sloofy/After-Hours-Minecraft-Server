@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "6acb793cd97dff83925decbfab9c9e418563c1fe2c84f1972047e7110a39f16f"
+hash = "2350cbc54a1becb05b8f196679d6cfbd80c364e2d7a379beb75ba8d0be3d69a2"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanessence.toml"
-hash = "288dadf2ffbfbb47564da4e82531b5ce2230f825e95ec1b9ff8c4c9da451b7d8"
+hash = "82d0efef12ccb1a8f3f2bffd6fd171e14ff9f7cfdf068d92fd5c429421d19752"
 metafile = true
 
 [[files]]

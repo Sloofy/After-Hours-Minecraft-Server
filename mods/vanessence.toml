@@ -1,13 +1,13 @@
 name = "Vanessence"
-filename = "vanilla-essence-3.0.0-1.18.jar"
+filename = "vanilla-essence-3.0.1-1.18.X.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/aGWV9KmJ/versions/3.0.0-1.18/vanilla-essence-3.0.0-1.18.jar"
+url = "https://cdn.modrinth.com/data/aGWV9KmJ/versions/3.0.1-1.18.X/vanilla-essence-3.0.1-1.18.X.jar"
 hash-format = "sha512"
-hash = "51123f0fd2b81bafcbdbe375685fda9613e7091aceab7bef7990f5e65facb35f072fbcbf8a22fa79baeafc24bcaa08c1fa388ceeb8e253431bf09c2e0f6378d7"
+hash = "925e3a419193904b36b731948db6b54903018345e1e8c09577bd9dc721054c545107d7afcb0d32c1a0483bb58a486d164da666f289a2b81890fcfff87bd8b952"
 
 [update]
 [update.modrinth]
 mod-id = "aGWV9KmJ"
-version = "XVo40Zax"
+version = "Zu4U7fbl"
