@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.toml"
-hash = "da0c3dacd9d4e818b149a022a41a6a957f200fab56ee2268900df5bc55397345"
+hash = "97e429a76c84a6edc11c5120e86f9f10872a37555477b494676677753da3fa78"
 metafile = true
 
 [[files]]
