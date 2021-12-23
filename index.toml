@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "e1e489ae4e66ec2e42d0aca91fa7c16cec0ecb835c3f1c7dab86f4372f2b2421"
+hash = "1cba7ffaf01ed4ca7f2cb06133963ed3d574376d4f03012dfa1c584539d5603d"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-villagers-fabric.toml"
-hash = "b565d83b9535d20f4c611f3c0463faf6dce110520f7da621500a7a75e81ce377"
+hash = "95813110d0eccb725e6c79a75e91d5fb002fc541f748d1faa01aa94741da675a"
 metafile = true
 
 [[files]]
