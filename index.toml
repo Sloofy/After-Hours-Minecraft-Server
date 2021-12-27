@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2350cbc54a1becb05b8f196679d6cfbd80c364e2d7a379beb75ba8d0be3d69a2"
+hash = "dc5608b76a7cde5e7d13841995b191678bcbe8158648108a8f7878b22920ccbc"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.toml"
-hash = "39081e9a3b0bb92a355fbd83335c834d891f5ecc1de2c8011ec9e260d44c9f19"
+hash = "ad6d0b81d0dc46189f83ceca1d3b362cf0f380934e718a773003a1490a574952"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "157e93c0a9f3dc21ec202ee8065377fc27a0a34a802a84a83678710395b14a15"
+hash = "3ea248434f5ac27a0bf734f310519e295a8c1ee025a22142ff4f9c3dbb1a924b"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "507fb6185c31ff0a3adf2669369ca32a832fd336fcf8019020d144ef064e855f"
+hash = "02834111fcc87805b3a2e5b03697635b0cbee7d8732a521d4d5595137c42ea80"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "93e3bcfaa398054a3f68c3d8937cf7e7b715876702ea906cf4ee1e493d911518"
+hash = "323d51fa4929b7192311a6d3f73586efa3066f332c4e525ae0a652a854454fb9"
 metafile = true
 
 [[files]]
