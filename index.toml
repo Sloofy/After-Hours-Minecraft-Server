@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "temp/index.toml"
-hash = "2ac9e6a5d5ae9600b398e9f51d53b8e52d71c7274bf9c7e12f73f356a089f1e2"
+hash = "57c5dbae329f1564294b5c03362abee9ef9293ef16bfae80cbb798cf440a16fe"
 
 [[files]]
 file = "temp/mods/additional-bars-fabric.toml"
@@ -507,5 +507,9 @@ file = "temp/mods/phosphor.toml"
 hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
 
 [[files]]
+file = "temp/mods/sodium.toml"
+hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
+
+[[files]]
 file = "temp/pack.toml"
-hash = "8302073e733efbb10afdebafc2df1996e0bf4425057d2eb6515fa7bca159f9de"
+hash = "662a6478318ef2a94361f94a5585a060db153349d2f71af7be0ee9769279a43a"

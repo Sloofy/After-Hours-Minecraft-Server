@@ -159,3 +159,8 @@ metafile = true
 file = "mods/phosphor.toml"
 hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
 metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
+metafile = true
