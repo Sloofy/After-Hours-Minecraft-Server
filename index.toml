@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "temp/index.toml"
-hash = "e71f9bae455b9108d9a7f9b126684a23f774ee696f5123789e6d63cadf023355"
+hash = "721361b2ec4f3b1d250bce3c8c2a3d598ab2d591f8c739a55e095c5eab7f4733"
 
 [[files]]
 file = "temp/mods/additional-bars-fabric.toml"
@@ -419,8 +419,16 @@ file = "temp/mods/cloth-config.toml"
 hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
 
 [[files]]
+file = "temp/mods/continuity.toml"
+hash = "c39a0cc43a6722cfff7bc8c90233da3757551becf1b4dacc4e425ae0cefaf2d4"
+
+[[files]]
 file = "temp/mods/croptopia-fabric.toml"
 hash = "f2e1ffa663efbe9525da19b765747036ebf0c5ee0aa8dd80fbe941ef14c9bc78"
+
+[[files]]
+file = "temp/mods/discerning-furnace.toml"
+hash = "74f1d2af206b1e5bd4f4511f79eb8a5cc2b068b88d25ec2236e0799f8486d41f"
 
 [[files]]
 file = "temp/mods/egg-of-capitalism.toml"
@@ -440,7 +448,7 @@ hash = "114395acdb903faf33561e5e653d1b4a0deed26af32781cdbb7eef2965aff1fe"
 
 [[files]]
 file = "temp/mods/extrasounds.toml"
-hash = "4db5f22340ec9e82efd66bb4bb076ce08b34b1b474d3861d056eeba7d6769d93"
+hash = "c508743b094e0b1494cd0ab2c0cce1b77ccb0af2cdfed6766b0aee829a5a6fa7"
 
 [[files]]
 file = "temp/mods/fabric-api.toml"
@@ -471,6 +479,14 @@ file = "temp/mods/go-fish.toml"
 hash = "0c251dac5f971df5513ba624dcb4b7bc3f2a2e83ed88edf57e1c56f2cf1393f6"
 
 [[files]]
+file = "temp/mods/inventory-profiles-next.toml"
+hash = "2a81f47d036f74231933373da01a412659efdce4a55338b9e15c943b92037ab0"
+
+[[files]]
+file = "temp/mods/irisshaders.toml"
+hash = "16cfbd80478e47ad53d383025c5fa8cb3360f8d186a0dfb44eb2ae6c973f9b2b"
+
+[[files]]
 file = "temp/mods/kambrik.toml"
 hash = "e39d2fb6e9834ae31831820662e521eb1e225efb2140a2205a229818f17858d5"
 
@@ -492,4 +508,4 @@ hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
 
 [[files]]
 file = "temp/pack.toml"
-hash = "cdde31ad7e0aee933f94dd0eee58373e33c9d9cfa469bcfd517e835883b7e7ac"
+hash = "352a7da9705d9823cdc2c9769e7fd3354f0428cb66726ddecf6276348a87faa6"

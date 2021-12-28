@@ -1,0 +1,13 @@
+name = "Discerning Furnace"
+filename = "discerning-furnace-1.0.5+MC1.18-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3564/741/discerning-furnace-1.0.5+MC1.18-1.18.1.jar"
+hash-format = "murmur2"
+hash = "3615851417"
+
+[update]
+[update.curseforge]
+file-id = 3564741
+project-id = 428966
