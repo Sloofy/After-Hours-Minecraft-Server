@@ -1,0 +1,13 @@
+name = "Lengthy Ladders"
+filename = "lengthyladders-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3522/416/lengthyladders-1.0.5.jar"
+hash-format = "murmur2"
+hash = "855982124"
+
+[update]
+[update.curseforge]
+file-id = 3522416
+project-id = 403634

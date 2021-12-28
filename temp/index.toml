@@ -56,6 +56,11 @@ hash = "c39a0cc43a6722cfff7bc8c90233da3757551becf1b4dacc4e425ae0cefaf2d4"
 metafile = true
 
 [[files]]
+file = "mods/couplings.toml"
+hash = "06ab0f703732dbc14a73e18e367fe50af4e51978ac08f6557ba0eaf651ac0add"
+metafile = true
+
+[[files]]
 file = "mods/croptopia-fabric.toml"
 hash = "f2e1ffa663efbe9525da19b765747036ebf0c5ee0aa8dd80fbe941ef14c9bc78"
 metafile = true
@@ -161,6 +166,11 @@ hash = "ffa430c24d8d6862b804c483a9070340fd3a89f858f8a5869b715534a06a04de"
 metafile = true
 
 [[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "9b6ae1f491e5db99c57f0fca6da4db2bd999bf8bda287cf60cf861dd3d18fa49"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.toml"
 hash = "2b0756538b98e29702e74d8f194b70eb8c472fa086e5a3084d903347cef4d623"
 metafile = true
@@ -168,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.toml"
 hash = "d29c81118c71783f1a833ec2b5b5e2be98d1bfce3652026b24161cb27288e3be"
+metafile = true
+
+[[files]]
+file = "mods/lengthy-ladders.toml"
+hash = "f394f429639b7f7dae91db6bcc4ee4509db9d6679249f39fbb636fb2021b7450"
 metafile = true
 
 [[files]]
@@ -181,8 +196,18 @@ hash = "b07bf5cc07a80a89ad2bb4a149655a6f7f0d8684c7bc3fda6767040cb6c5b7b9"
 metafile = true
 
 [[files]]
+file = "mods/more-villagers-fabric.toml"
+hash = "95813110d0eccb725e6c79a75e91d5fb002fc541f748d1faa01aa94741da675a"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.toml"
 hash = "d087a30cebb32c33284742ea62770d2a4e230d59294068d6504624c3a09389a6"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "3953018927bb4f7464d1c9a9a19e84e2b59a5e387ffe5ec2e79f01e8d7bb0996"
 metafile = true
 
 [[files]]
@@ -191,8 +216,18 @@ hash = "5b17699a5edf9b5d8d53f67181bfe6e7a635b3f7c6681a3b55d47f0333ac7ae3"
 metafile = true
 
 [[files]]
+file = "mods/on-soul-fire.toml"
+hash = "4329dba71490aea1c7bac690c4f070a92b7372b32740a2fd5d476b0fb8ee79f6"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.toml"
 hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.toml"
+hash = "356c07fc9eeebf4cf29db1e08f32480cf1c4755d3132dbc65db53ea04053a8fe"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "On Soul Fire"
+filename = "onsoulfire-1.18-1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3541/865/onsoulfire-1.18-1.jar"
+hash-format = "murmur2"
+hash = "3656309994"
+
+[update]
+[update.curseforge]
+file-id = 3541865
+project-id = 394667
