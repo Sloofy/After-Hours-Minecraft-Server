@@ -1,0 +1,13 @@
+name = "Wandering Collector"
+filename = "wanderingcollector-1.0.3+mc1.18-rc3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3538/607/wanderingcollector-1.0.3+mc1.18-rc3.jar"
+hash-format = "murmur2"
+hash = "1636297234"
+
+[update]
+[update.curseforge]
+file-id = 3538607
+project-id = 443476

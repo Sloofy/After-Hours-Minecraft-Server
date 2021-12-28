@@ -1,0 +1,13 @@
+name = "Cake Chomps (Fabric)"
+filename = "cakechomps-fabric-1.4.0-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3555/965/cakechomps-fabric-1.4.0-1.18.jar"
+hash-format = "murmur2"
+hash = "1213745359"
+
+[update]
+[update.curseforge]
+file-id = 3555965
+project-id = 394718

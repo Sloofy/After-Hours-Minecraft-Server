@@ -1,0 +1,13 @@
+name = "Forge Config API Port [Fabric]"
+filename = "ForgeConfigAPIPort-v3.1.0-1.18.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3562/302/ForgeConfigAPIPort-v3.1.0-1.18.1-Fabric.jar"
+hash-format = "murmur2"
+hash = "2040077465"
+
+[update]
+[update.curseforge]
+file-id = 3562302
+project-id = 547434

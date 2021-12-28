@@ -1,0 +1,13 @@
+name = "Companion 🐕 (Fabric)"
+filename = "Companion-1.18.1-fabric-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3583/245/Companion-1.18.1-fabric-1.1.0.jar"
+hash-format = "murmur2"
+hash = "3956249431"
+
+[update]
+[update.curseforge]
+file-id = 3583245
+project-id = 560280

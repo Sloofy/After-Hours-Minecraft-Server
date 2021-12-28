@@ -4,3 +4,4 @@ snooperEnabled:false
 guiScale:3
 tutorialStep:none
 skipMultiplayerWarning:true
+resourcePacks:["vanilla","Fabric Mods","continuity/default"]

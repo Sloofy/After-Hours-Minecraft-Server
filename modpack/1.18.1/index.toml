@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/fabrication/block_logo.ini"
+hash = "1a58d3ffaaf266eb0f6f3574f15559689fa237be980a13b741834d640d9a8375"
+
+[[files]]
+file = "config/yosbr/config/fabrication/block_logo.png"
+hash = "f2938cfb35d857049425b51f59ce557dd8f329e6b76bef68ffb561f118a4def0"
+
+[[files]]
+file = "config/yosbr/config/fabrication/classic_block_drops.ini"
+hash = "45e501b8528ef8d27c2a67efd27304c81cd0503f8b0671094e6653eefd394b12"
+
+[[files]]
+file = "config/yosbr/config/fabrication/dimensional_tools.ini"
+hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
+
+[[files]]
+file = "config/yosbr/config/fabrication/features.ini"
+hash = "d68ae59354f7886e1bbd0afa1970e86a1f671b5e50d6ea16633d797e780c0c98"
+
+[[files]]
+file = "config/yosbr/config/fabrication/fscript.ini"
+hash = "06d742af1c186bd89bb808f7ff407865f1c08b1ebf7bb2e52ae2d042b64acd16"
+
+[[files]]
+file = "config/yosbr/config/fabrication/gear_components.ini"
+hash = "5a9291467f9f7918687a0d138a61e396cb9299b0b4ea2e4cf4f4d6f3594f865b"
+
+[[files]]
+file = "config/yosbr/config/fabrication/item_despawn.ini"
+hash = "24b26ac0b8ff13889b6b3b00b2309366eb72c36014a9679a82f4cbff46c275f4"
+
+[[files]]
+file = "config/yosbr/config/fabrication/yeet_recipes.ini"
+hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
+
+[[files]]
 file = "config/yosbr/config/illuminations.properties"
 hash = "1534a5ff5f82a9f22db1ceb85cd7b6f7a683aa1b1e74b2f62e0bec2231ee85cb"
 
@@ -9,8 +45,16 @@ file = "config/yosbr/config/presencefootsteps/userconfig.json"
 hash = "9dd2455c8e3a88e0b57679e43065e4902100fb73f9105598b8166825fc0c3964"
 
 [[files]]
+file = "config/yosbr/config/slightguimodifications/config.json5"
+hash = "3fb9ff05e85465485abdcf8454e3aa9b5a1970d7f51891807be64fabbbe6ef72"
+
+[[files]]
+file = "config/yosbr/config/slightguimodifications/cts.groovy"
+hash = "2e14ac15db9760fc6d1631e511de4ce3dfbc93390cfd0a202eb7247444dd384c"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "3cd1b846b3850c719c28a9b45da9ce6dc99b6ca9f80b98060c7fb46f3ee54d0a"
+hash = "e718fd3f41af608905b353db13470d25b1166cb660cb291dee00ef86dd53315a"
 
 [[files]]
 file = "mods/additional-bars-fabric.toml"
@@ -73,6 +117,11 @@ hash = "cfef23bb4d24b8d5019556770374b22c0a5865bdc5e959ef034209ff6d2d3c99"
 metafile = true
 
 [[files]]
+file = "mods/cake-chomps-fabric.toml"
+hash = "377e7d7ed0df5b2bc937493779db91a2b215eac545bff0901e2102480a532809"
+metafile = true
+
+[[files]]
 file = "mods/capes.toml"
 hash = "eef7bb485e3256f64c611371f1ae5df7606929cc22b7a9d510c8c3adb542bd2d"
 metafile = true
@@ -90,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.toml"
 hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+metafile = true
+
+[[files]]
+file = "mods/companion-fabric.toml"
+hash = "04c2491a789e9c39b304d10587b176c8191b857b1c755ee00b197e0790bb18eb"
 metafile = true
 
 [[files]]
@@ -144,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/extrasounds.toml"
-hash = "c508743b094e0b1494cd0ab2c0cce1b77ccb0af2cdfed6766b0aee829a5a6fa7"
+hash = "1d3a08b68147c4d79e49b0a4d5383e397c3c1d7811e7757a123b909fdee0bbbe"
 metafile = true
 
 [[files]]
@@ -180,6 +234,16 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "856759b47ba14018cff8917f8d1785df84d2acf2730b8409bc1dd4dfb578748a"
+metafile = true
+
+[[files]]
+file = "mods/firework-frenzy.toml"
+hash = "89fe3da90a086a3aefc221284a44eb46c2ee7843f56b92d6405a954f3c737286"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.toml"
+hash = "973323088f6265022f0f414baab75688f8c3a717021c9e542f7b55940cf24d35"
 metafile = true
 
 [[files]]
@@ -273,6 +337,11 @@ hash = "95813110d0eccb725e6c79a75e91d5fb002fc541f748d1faa01aa94741da675a"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.toml"
+hash = "4f9056a630be5f300b095bf9b4e268c9c1d6f85def91e590887d5c3198ae2bd1"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.toml"
 hash = "d087a30cebb32c33284742ea62770d2a4e230d59294068d6504624c3a09389a6"
 metafile = true
@@ -293,13 +362,18 @@ hash = "4329dba71490aea1c7bac690c4f070a92b7372b32740a2fd5d476b0fb8ee79f6"
 metafile = true
 
 [[files]]
-file = "mods/phosphor.toml"
-hash = "96ed04f6ee09c1b734bdd03514811f85b0fc79266d886949404dbde5b7919c28"
+file = "mods/polymorph-fabric.toml"
+hash = "6bd23949faca25d09e3d1b1a092f5688d4eeb821ab70171d2b980a57e2926018"
 metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.toml"
 hash = "356c07fc9eeebf4cf29db1e08f32480cf1c4755d3132dbc65db53ea04053a8fe"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib-fabric.toml"
+hash = "e1f360fffa6a40762ec5ce48718a92d871a9d8840c482f9a62ea3e25fa652836"
 metafile = true
 
 [[files]]
@@ -338,6 +412,11 @@ hash = "3ca5de1770ea9cac3d80453b9f99da3d758afd6c7643025a9143a873ec4af8bf"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.toml"
+hash = "32e7f9a21560045820af857bd45d7d9ba5210f4ea3952bdc0dbd307544f7ddc6"
+metafile = true
+
+[[files]]
 file = "mods/sodium.toml"
 hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
 metafile = true
@@ -345,6 +424,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.toml"
 hash = "a2097cc393eb81d7bd5738f0b247aebf624058e157f078ebd722283079286b7d"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "c641a4f43b1c98bc9b7931306b55e83477233a4e33febf49ce7f9bebfa058872"
 metafile = true
 
 [[files]]
@@ -358,8 +442,23 @@ hash = "c17f8079652e012db11059501e9710006dc5aa196d4f5c88e65fdd0777f5aa75"
 metafile = true
 
 [[files]]
+file = "mods/villager-names-fabric.toml"
+hash = "51f0177661df03a5705f63945ab189c225c1f7bd526a57889bccb974b1125dea"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench-fabric.toml"
+hash = "4e15dd5810d6d002f6d6db372b086449a6d54e24443a44231bb09b473c9c4124"
+metafile = true
+
+[[files]]
 file = "mods/visuality.toml"
 hash = "93e59d5cce9ecae4dbf0bfaaa16c19e9db1953da2e4a5810bba8146185f48edc"
+metafile = true
+
+[[files]]
+file = "mods/wandering-collector.toml"
+hash = "8b1e96ca1a79f91822afc4825451f87927f57cd67e782c0b41dc75439fc10657"
 metafile = true
 
 [[files]]
