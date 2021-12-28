@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "temp/index.toml"
-hash = "721361b2ec4f3b1d250bce3c8c2a3d598ab2d591f8c739a55e095c5eab7f4733"
+hash = "2ac9e6a5d5ae9600b398e9f51d53b8e52d71c7274bf9c7e12f73f356a089f1e2"
 
 [[files]]
 file = "temp/mods/additional-bars-fabric.toml"
@@ -496,7 +496,7 @@ hash = "ffa430c24d8d6862b804c483a9070340fd3a89f858f8a5869b715534a06a04de"
 
 [[files]]
 file = "temp/mods/lithium.toml"
-hash = "465afb925dc6ee39704b7456750b7ada5d1000b951faadfab590efb4c5342049"
+hash = "2d7ffe826eb733f7ef787dd74b239b458c6d18666c56b19a998cbac3fcaf8222"
 
 [[files]]
 file = "temp/mods/modmenu.toml"
@@ -508,4 +508,4 @@ hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
 
 [[files]]
 file = "temp/pack.toml"
-hash = "352a7da9705d9823cdc2c9769e7fd3354f0428cb66726ddecf6276348a87faa6"
+hash = "8302073e733efbb10afdebafc2df1996e0bf4425057d2eb6515fa7bca159f9de"
