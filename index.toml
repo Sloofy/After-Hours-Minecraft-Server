@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "temp/index.toml"
-hash = "c54131fa6a13558488ec538b4994c4e49125afba215a188a7be1bc5a7684188b"
+hash = "9965d51729380e08ea7cf333e589787294097a6b345174d204604a107f5eae02"
 
 [[files]]
 file = "temp/mods/additional-bars-fabric.toml"
@@ -385,6 +385,10 @@ hash = "ede3558244abffbc44f0da3f6f4c1271f2d0e3e2c62c677cd2e9698904351e32"
 [[files]]
 file = "temp/mods/adorn.toml"
 hash = "79600021b5a6b907a34e5653fdc686526d39ed7e109c0112cdc4fd2920a13dd1"
+
+[[files]]
+file = "temp/mods/anvil-crushing-recipes.toml"
+hash = "36b662d0b01746b6d500758011ee97c2625d9cc91fc34fcf898ff97545e0937e"
 
 [[files]]
 file = "temp/mods/appleskin.toml"
@@ -419,6 +423,10 @@ file = "temp/mods/bountiful-fabric.toml"
 hash = "cfef23bb4d24b8d5019556770374b22c0a5865bdc5e959ef034209ff6d2d3c99"
 
 [[files]]
+file = "temp/mods/cleancut.toml"
+hash = "0b4442cfc298e15261c9dfd17baab7e869c5201fc61ca81d739e1cf9ce9052a6"
+
+[[files]]
 file = "temp/mods/cloth-config.toml"
 hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
 
@@ -437,6 +445,10 @@ hash = "f2e1ffa663efbe9525da19b765747036ebf0c5ee0aa8dd80fbe941ef14c9bc78"
 [[files]]
 file = "temp/mods/discerning-furnace.toml"
 hash = "74f1d2af206b1e5bd4f4511f79eb8a5cc2b068b88d25ec2236e0799f8486d41f"
+
+[[files]]
+file = "temp/mods/dual-riders.toml"
+hash = "a3772c8f00c5085245b1d04c20b0a7c3b14bdf21f5fef322e877689c5d7bf804"
 
 [[files]]
 file = "temp/mods/dynamic-fps.toml"
@@ -491,6 +503,10 @@ file = "temp/mods/go-fish.toml"
 hash = "0c251dac5f971df5513ba624dcb4b7bc3f2a2e83ed88edf57e1c56f2cf1393f6"
 
 [[files]]
+file = "temp/mods/grims-transportables.toml"
+hash = "60c87e3a2fd3466c50f1ab906b128390cb7b4ee7211cdf926250c853f53b0154"
+
+[[files]]
 file = "temp/mods/illuminations.toml"
 hash = "d4beda34ea4d7c3544510d2615f28f193bdcc2c25253406dce157155971a4582"
 
@@ -517,6 +533,10 @@ hash = "ffa430c24d8d6862b804c483a9070340fd3a89f858f8a5869b715534a06a04de"
 [[files]]
 file = "temp/mods/lambdabettergrass.toml"
 hash = "9b6ae1f491e5db99c57f0fca6da4db2bd999bf8bda287cf60cf861dd3d18fa49"
+
+[[files]]
+file = "temp/mods/lambdacontrols.toml"
+hash = "bd2a345ad621af0d2a5e496257279fb9b13d288a00f9647f4ec144d233433414"
 
 [[files]]
 file = "temp/mods/lambdynamiclights.toml"
@@ -583,6 +603,10 @@ file = "temp/mods/skin-layers-3d.toml"
 hash = "03913aad4c0d66a78d5adeaf03d409a85a4d165fbcae9382965d2bb5b52fcaeb"
 
 [[files]]
+file = "temp/mods/snowy-trees.toml"
+hash = "3ca5de1770ea9cac3d80453b9f99da3d758afd6c7643025a9143a873ec4af8bf"
+
+[[files]]
 file = "temp/mods/sodium.toml"
 hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
 
@@ -603,5 +627,9 @@ file = "temp/mods/wolves-with-armor.toml"
 hash = "f92cd294299c6bc053eeb34541c934879a0bc204d37d638de74574fc9a98f970"
 
 [[files]]
+file = "temp/mods/yosbr.toml"
+hash = "25ba1f543d497256054d05bbbab6e0c4f5aa9796cd53191d4b381297fd98c81d"
+
+[[files]]
 file = "temp/pack.toml"
-hash = "12e76bf81c768b7b278e054e46e3245d13b5504aae78bdb1b0e6c5797bbc7ad8"
+hash = "0e094c7fea2772ed263cd771d6a1d51e265099926dbce829c7d85fa60e841766"

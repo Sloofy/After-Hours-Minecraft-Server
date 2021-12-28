@@ -1,0 +1,13 @@
+name = "Snowy Trees"
+filename = "snowy-trees-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QRtuy06g/versions/1.0.0/snowy-trees-1.0.0.jar"
+hash-format = "sha512"
+hash = "659b6ca0688407e38ae0be5c2ce95d5a4f485085c5411c8594f0ac2e67b39056484abb861e16684320cb15395474f584513f3f4b6e863861e4c20f11219d6623"
+
+[update]
+[update.modrinth]
+mod-id = "QRtuy06g"
+version = "8OWXW6pP"

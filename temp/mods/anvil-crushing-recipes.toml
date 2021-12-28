@@ -1,0 +1,13 @@
+name = "Anvil Crushing Recipes"
+filename = "anvil-crushing-recipes-1.3.2-b1+MC1.18-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3565/854/anvil-crushing-recipes-1.3.2-b1+MC1.18-1.18.1.jar"
+hash-format = "murmur2"
+hash = "3566145124"
+
+[update]
+[update.curseforge]
+file-id = 3565854
+project-id = 398523

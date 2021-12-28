@@ -1,0 +1,13 @@
+name = "LambdaControls"
+filename = "lambdacontrols-1.7.1+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3362/125/lambdacontrols-1.7.1+1.17.jar"
+hash-format = "murmur2"
+hash = "1714525704"
+
+[update]
+[update.curseforge]
+file-id = 3362125
+project-id = 354231

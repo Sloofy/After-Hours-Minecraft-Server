@@ -11,6 +11,11 @@ hash = "79600021b5a6b907a34e5653fdc686526d39ed7e109c0112cdc4fd2920a13dd1"
 metafile = true
 
 [[files]]
+file = "mods/anvil-crushing-recipes.toml"
+hash = "36b662d0b01746b6d500758011ee97c2625d9cc91fc34fcf898ff97545e0937e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "253800067c95c8c871e047518277be6dea81fd91790e196158820d19d1e0d831"
 metafile = true
@@ -51,6 +56,11 @@ hash = "cfef23bb4d24b8d5019556770374b22c0a5865bdc5e959ef034209ff6d2d3c99"
 metafile = true
 
 [[files]]
+file = "mods/cleancut.toml"
+hash = "0b4442cfc298e15261c9dfd17baab7e869c5201fc61ca81d739e1cf9ce9052a6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
 metafile = true
@@ -73,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/discerning-furnace.toml"
 hash = "74f1d2af206b1e5bd4f4511f79eb8a5cc2b068b88d25ec2236e0799f8486d41f"
+metafile = true
+
+[[files]]
+file = "mods/dual-riders.toml"
+hash = "a3772c8f00c5085245b1d04c20b0a7c3b14bdf21f5fef322e877689c5d7bf804"
 metafile = true
 
 [[files]]
@@ -141,6 +156,11 @@ hash = "0c251dac5f971df5513ba624dcb4b7bc3f2a2e83ed88edf57e1c56f2cf1393f6"
 metafile = true
 
 [[files]]
+file = "mods/grims-transportables.toml"
+hash = "60c87e3a2fd3466c50f1ab906b128390cb7b4ee7211cdf926250c853f53b0154"
+metafile = true
+
+[[files]]
 file = "mods/illuminations.toml"
 hash = "d4beda34ea4d7c3544510d2615f28f193bdcc2c25253406dce157155971a4582"
 metafile = true
@@ -173,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/lambdabettergrass.toml"
 hash = "9b6ae1f491e5db99c57f0fca6da4db2bd999bf8bda287cf60cf861dd3d18fa49"
+metafile = true
+
+[[files]]
+file = "mods/lambdacontrols.toml"
+hash = "bd2a345ad621af0d2a5e496257279fb9b13d288a00f9647f4ec144d233433414"
 metafile = true
 
 [[files]]
@@ -256,6 +281,11 @@ hash = "03913aad4c0d66a78d5adeaf03d409a85a4d165fbcae9382965d2bb5b52fcaeb"
 metafile = true
 
 [[files]]
+file = "mods/snowy-trees.toml"
+hash = "3ca5de1770ea9cac3d80453b9f99da3d758afd6c7643025a9143a873ec4af8bf"
+metafile = true
+
+[[files]]
 file = "mods/sodium.toml"
 hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
 metafile = true
@@ -278,4 +308,9 @@ metafile = true
 [[files]]
 file = "mods/wolves-with-armor.toml"
 hash = "f92cd294299c6bc053eeb34541c934879a0bc204d37d638de74574fc9a98f970"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.toml"
+hash = "25ba1f543d497256054d05bbbab6e0c4f5aa9796cd53191d4b381297fd98c81d"
 metafile = true
