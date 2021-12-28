@@ -45,6 +45,10 @@ file = "config/yosbr/config/presencefootsteps/userconfig.json"
 hash = "9dd2455c8e3a88e0b57679e43065e4902100fb73f9105598b8166825fc0c3964"
 
 [[files]]
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
+hash = "d6de6b58b762116f43e29354dea2877c6e8c79e2e4fc85b3f82c385cf7aade02"
+
+[[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
 hash = "3fb9ff05e85465485abdcf8454e3aa9b5a1970d7f51891807be64fabbbe6ef72"
 
@@ -55,6 +59,11 @@ hash = "2e14ac15db9760fc6d1631e511de4ce3dfbc93390cfd0a202eb7247444dd384c"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "e718fd3f41af608905b353db13470d25b1166cb660cb291dee00ef86dd53315a"
+
+[[files]]
+file = "mods/additional-additions.toml"
+hash = "3a72c04e22aa18c0c317b2be5d21e113a287087f9c0ef11f8cd93f4c54b48b2d"
+metafile = true
 
 [[files]]
 file = "mods/additional-bars-fabric.toml"
@@ -87,8 +96,18 @@ hash = "22203e5764097d5d7e17e6082417f8b69ba3af34336e4d9406f9389266523de5"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.toml"
+hash = "06aeaa8e70f97a5142cfa5eb2c0c4098dab264e504052b7bdcd908170f0d1799"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-bucket-fix.toml"
 hash = "22478251efbefe2373847219b119db349cefcff114cfbe5107554d6ff41e7ec0"
+metafile = true
+
+[[files]]
+file = "mods/beaconoverhaul.toml"
+hash = "9631afc7f7ad9ca43b31be59a7cb8b58f08339f46c7afce4cd7b65ac489c3313"
 metafile = true
 
 [[files]]
@@ -142,6 +161,11 @@ hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
 metafile = true
 
 [[files]]
+file = "mods/clumps.toml"
+hash = "ad213896f2aadffb419b70ff4c82233c0c511f628d31dbb37f7738be99c259e7"
+metafile = true
+
+[[files]]
 file = "mods/companion-fabric.toml"
 hash = "04c2491a789e9c39b304d10587b176c8191b857b1c755ee00b197e0790bb18eb"
 metafile = true
@@ -154,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/couplings.toml"
 hash = "06ab0f703732dbc14a73e18e367fe50af4e51978ac08f6557ba0eaf651ac0add"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.toml"
+hash = "e125a135d603d383e8e0570e73e14ed8588d0788167158d01c76436329176e3e"
 metafile = true
 
 [[files]]
