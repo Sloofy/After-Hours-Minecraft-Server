@@ -1,0 +1,141 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/additional-bars-fabric.toml"
+hash = "ede3558244abffbc44f0da3f6f4c1271f2d0e3e2c62c677cd2e9698904351e32"
+metafile = true
+
+[[files]]
+file = "mods/adorn.toml"
+hash = "79600021b5a6b907a34e5653fdc686526d39ed7e109c0112cdc4fd2920a13dd1"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "253800067c95c8c871e047518277be6dea81fd91790e196158820d19d1e0d831"
+metafile = true
+
+[[files]]
+file = "mods/axolotl-bucket-fix.toml"
+hash = "22478251efbefe2373847219b119db349cefcff114cfbe5107554d6ff41e7ec0"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.toml"
+hash = "628ee5a0eb26c46926c80bf43dacd2300a2bc722169c4d7aa2bb4892c77ad913"
+metafile = true
+
+[[files]]
+file = "mods/bettersleeping-revived.toml"
+hash = "10473d974c413c2d18dd0a3f82ed318e6fdb9d0a98309a273dde2c0ba723924d"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.toml"
+hash = "84d2ed9556dd7cc84634886dd979644d2a0d6bdb055a76076452452fd89d6ee9"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.toml"
+hash = "4b906b3eb87279cf2bf36676da5a423664ac769eb61c72fd9cfc6d860aab4753"
+metafile = true
+
+[[files]]
+file = "mods/bountiful-fabric.toml"
+hash = "cfef23bb4d24b8d5019556770374b22c0a5865bdc5e959ef034209ff6d2d3c99"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+metafile = true
+
+[[files]]
+file = "mods/croptopia-fabric.toml"
+hash = "f2e1ffa663efbe9525da19b765747036ebf0c5ee0aa8dd80fbe941ef14c9bc78"
+metafile = true
+
+[[files]]
+file = "mods/egg-of-capitalism.toml"
+hash = "d97d0464074978f9355f8f55fce1c8ae5486071e593248a9f77f43db863b761a"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.toml"
+hash = "aac340c5ffaf641aadc9c41b659a1ef715093ff0cb355b68031fe3abb4b01341"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities.toml"
+hash = "08280b7b95f068d0311df8ce7a79d9f33a123369448ad4bccc6f0b98ff799807"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.toml"
+hash = "114395acdb903faf33561e5e653d1b4a0deed26af32781cdbb7eef2965aff1fe"
+metafile = true
+
+[[files]]
+file = "mods/extrasounds.toml"
+hash = "4db5f22340ec9e82efd66bb4bb076ce08b34b1b474d3861d056eeba7d6769d93"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "1cba7ffaf01ed4ca7f2cb06133963ed3d574376d4f03012dfa1c584539d5603d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-waystones.toml"
+hash = "97e429a76c84a6edc11c5120e86f9f10872a37555477b494676677753da3fa78"
+metafile = true
+
+[[files]]
+file = "mods/fabrication.toml"
+hash = "ad6d0b81d0dc46189f83ceca1d3b362cf0f380934e718a773003a1490a574952"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.toml"
+hash = "78aadfae6568d528db5c8fd4e77cdb5c708e37c6303bb70cd50b1013fe99a185"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.toml"
+hash = "09723210fffa41e81190964772397c722c11af862654226fcb2c229d9e03a53e"
+metafile = true
+
+[[files]]
+file = "mods/go-fish.toml"
+hash = "0c251dac5f971df5513ba624dcb4b7bc3f2a2e83ed88edf57e1c56f2cf1393f6"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.toml"
+hash = "e39d2fb6e9834ae31831820662e521eb1e225efb2140a2205a229818f17858d5"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "ffa430c24d8d6862b804c483a9070340fd3a89f858f8a5869b715534a06a04de"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "465afb925dc6ee39704b7456750b7ada5d1000b951faadfab590efb4c5342049"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "113730a58c9e46dbf8b17632baf1fbafe4e24ccbb8d8b3e9898bf3f5a38f435c"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
+metafile = true

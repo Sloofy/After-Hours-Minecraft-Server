@@ -1,4 +1,4 @@
-name = "AH! Real Minecraft"
+name = "AHMC-Modpack"
 author = "Sloofy"
 version = "1.0.0"
 pack-format = "packwiz:1.0.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.0.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1bbacb5de533fabef5f22c692bd70b193d579092341741ac5e75f3840b096d13"
+hash = "e71f9bae455b9108d9a7f9b126684a23f774ee696f5123789e6d63cadf023355"
 
 [versions]
 fabric = "0.12.12"
