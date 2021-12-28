@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "temp/index.toml"
-hash = "9965d51729380e08ea7cf333e589787294097a6b345174d204604a107f5eae02"
+hash = "c02ebaac55db6ae82d8a151b8b5fc7ef1949f1633960800459be413cbb705a68"
 
 [[files]]
 file = "temp/mods/additional-bars-fabric.toml"
@@ -552,7 +552,7 @@ hash = "f394f429639b7f7dae91db6bcc4ee4509db9d6679249f39fbb636fb2021b7450"
 
 [[files]]
 file = "temp/mods/lithium.toml"
-hash = "2d7ffe826eb733f7ef787dd74b239b458c6d18666c56b19a998cbac3fcaf8222"
+hash = "465afb925dc6ee39704b7456750b7ada5d1000b951faadfab590efb4c5342049"
 
 [[files]]
 file = "temp/mods/modmenu.toml"
@@ -568,7 +568,7 @@ hash = "d087a30cebb32c33284742ea62770d2a4e230d59294068d6504624c3a09389a6"
 
 [[files]]
 file = "temp/mods/not-enough-crashes.toml"
-hash = "3953018927bb4f7464d1c9a9a19e84e2b59a5e387ffe5ec2e79f01e8d7bb0996"
+hash = "6b3918f68cdde22ca096a51a4db0a0d17c9d7109807c6b23a7f51aba15e46f50"
 
 [[files]]
 file = "temp/mods/ok-zoomer.toml"
@@ -596,7 +596,7 @@ hash = "323d51fa4929b7192311a6d3f73586efa3066f332c4e525ae0a652a854454fb9"
 
 [[files]]
 file = "temp/mods/simple-voice-chat.toml"
-hash = "cfcd4af65c0bfd1eb2bddc82df166883f19b6283ee65e7b5a19ecda2a2dd0a32"
+hash = "b4c78204ffcb525aaaad628188cc1302782e54ca7c0b1646ec4d5933c5810cc0"
 
 [[files]]
 file = "temp/mods/skin-layers-3d.toml"
@@ -612,7 +612,7 @@ hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
 
 [[files]]
 file = "temp/mods/sound-physics-remastered.toml"
-hash = "c9af5b176c6722fa13158bce2988241303d45a616619e33c1f254093e0de1204"
+hash = "a2097cc393eb81d7bd5738f0b247aebf624058e157f078ebd722283079286b7d"
 
 [[files]]
 file = "temp/mods/vanessence.toml"
@@ -632,4 +632,4 @@ hash = "25ba1f543d497256054d05bbbab6e0c4f5aa9796cd53191d4b381297fd98c81d"
 
 [[files]]
 file = "temp/pack.toml"
-hash = "0e094c7fea2772ed263cd771d6a1d51e265099926dbce829c7d85fa60e841766"
+hash = "4bd1a92a139f07b3950e534635a205c8b2fed59831c3df10755cc0325748fe74"

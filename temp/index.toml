@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "2d7ffe826eb733f7ef787dd74b239b458c6d18666c56b19a998cbac3fcaf8222"
+hash = "465afb925dc6ee39704b7456750b7ada5d1000b951faadfab590efb4c5342049"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "3953018927bb4f7464d1c9a9a19e84e2b59a5e387ffe5ec2e79f01e8d7bb0996"
+hash = "6b3918f68cdde22ca096a51a4db0a0d17c9d7109807c6b23a7f51aba15e46f50"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "cfcd4af65c0bfd1eb2bddc82df166883f19b6283ee65e7b5a19ecda2a2dd0a32"
+hash = "b4c78204ffcb525aaaad628188cc1302782e54ca7c0b1646ec4d5933c5810cc0"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.toml"
-hash = "c9af5b176c6722fa13158bce2988241303d45a616619e33c1f254093e0de1204"
+hash = "a2097cc393eb81d7bd5738f0b247aebf624058e157f078ebd722283079286b7d"
 metafile = true
 
 [[files]]
