@@ -1,0 +1,6 @@
+version:2865
+autoJump:false
+snooperEnabled:false
+guiScale:3
+tutorialStep:none
+skipMultiplayerWarning:true

@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/illuminations.properties"
+hash = "1534a5ff5f82a9f22db1ceb85cd7b6f7a683aa1b1e74b2f62e0bec2231ee85cb"
+
+[[files]]
+file = "config/yosbr/config/presencefootsteps/userconfig.json"
+hash = "9dd2455c8e3a88e0b57679e43065e4902100fb73f9105598b8166825fc0c3964"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "3cd1b846b3850c719c28a9b45da9ce6dc99b6ca9f80b98060c7fb46f3ee54d0a"
+
+[[files]]
 file = "mods/additional-bars-fabric.toml"
 hash = "ede3558244abffbc44f0da3f6f4c1271f2d0e3e2c62c677cd2e9698904351e32"
 metafile = true
@@ -23,6 +35,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-fabric.toml"
 hash = "dc5608b76a7cde5e7d13841995b191678bcbe8158648108a8f7878b22920ccbc"
+metafile = true
+
+[[files]]
+file = "mods/arrp.toml"
+hash = "22203e5764097d5d7e17e6082417f8b69ba3af34336e4d9406f9389266523de5"
 metafile = true
 
 [[files]]
@@ -56,8 +73,18 @@ hash = "cfef23bb4d24b8d5019556770374b22c0a5865bdc5e959ef034209ff6d2d3c99"
 metafile = true
 
 [[files]]
+file = "mods/capes.toml"
+hash = "eef7bb485e3256f64c611371f1ae5df7606929cc22b7a9d510c8c3adb542bd2d"
+metafile = true
+
+[[files]]
 file = "mods/cleancut.toml"
 hash = "0b4442cfc298e15261c9dfd17baab7e869c5201fc61ca81d739e1cf9ce9052a6"
+metafile = true
+
+[[files]]
+file = "mods/cloth-api.toml"
+hash = "3c329350a1ade79fa329aa932188659dc361d4917a0fcb07159b5eeb240f97f2"
 metafile = true
 
 [[files]]
@@ -146,6 +173,16 @@ hash = "78aadfae6568d528db5c8fd4e77cdb5c708e37c6303bb70cd50b1013fe99a185"
 metafile = true
 
 [[files]]
+file = "mods/fastopenlinksandfolders.toml"
+hash = "43fdcfbe3d14e724bf3c5a37bda4648677b511a296797ae377573308297c5a62"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.toml"
+hash = "856759b47ba14018cff8917f8d1785df84d2acf2730b8409bc1dd4dfb578748a"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.toml"
 hash = "09723210fffa41e81190964772397c722c11af862654226fcb2c229d9e03a53e"
 metafile = true
@@ -178,6 +215,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.toml"
 hash = "16cfbd80478e47ad53d383025c5fa8cb3360f8d186a0dfb44eb2ae6c973f9b2b"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.toml"
+hash = "5841e176057ffa9f0716ec213a32d1dd77422ec32c1fc8b19adf6673c8735d69"
 metafile = true
 
 [[files]]
@@ -252,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphor.toml"
-hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
+hash = "96ed04f6ee09c1b734bdd03514811f85b0fc79266d886949404dbde5b7919c28"
 metafile = true
 
 [[files]]
@@ -281,6 +323,16 @@ hash = "03913aad4c0d66a78d5adeaf03d409a85a4d165fbcae9382965d2bb5b52fcaeb"
 metafile = true
 
 [[files]]
+file = "mods/slight-gui-modifications.toml"
+hash = "5b33de3c55d5c60d41ac57d72b7697b6e6ad8795de481895b3f0d11e2e0d974a"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.toml"
+hash = "3905aad8e323feb13c417c6fd81da68e94c8d434117fea4bb5de7b7c89e87509"
+metafile = true
+
+[[files]]
 file = "mods/snowy-trees.toml"
 hash = "3ca5de1770ea9cac3d80453b9f99da3d758afd6c7643025a9143a873ec4af8bf"
 metafile = true
@@ -293,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.toml"
 hash = "a2097cc393eb81d7bd5738f0b247aebf624058e157f078ebd722283079286b7d"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.toml"
+hash = "28b48053e5e932741e9a321e2f62d8595fe52e6c1ced9fbda3e0ab80b43030ee"
 metafile = true
 
 [[files]]
