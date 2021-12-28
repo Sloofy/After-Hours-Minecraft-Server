@@ -1,0 +1,13 @@
+name = "Vanessence [Fabric]"
+filename = "vanilla-essence-3.0.1-1.18.X.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/482/vanilla-essence-3.0.1-1.18.X.jar"
+hash-format = "murmur2"
+hash = "3032898122"
+
+[update]
+[update.curseforge]
+file-id = 3576482
+project-id = 450747

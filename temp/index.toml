@@ -16,6 +16,11 @@ hash = "253800067c95c8c871e047518277be6dea81fd91790e196158820d19d1e0d831"
 metafile = true
 
 [[files]]
+file = "mods/architectury-fabric.toml"
+hash = "dc5608b76a7cde5e7d13841995b191678bcbe8158648108a8f7878b22920ccbc"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-bucket-fix.toml"
 hash = "22478251efbefe2373847219b119db349cefcff114cfbe5107554d6ff41e7ec0"
 metafile = true
@@ -231,6 +236,46 @@ hash = "356c07fc9eeebf4cf29db1e08f32480cf1c4755d3132dbc65db53ea04053a8fe"
 metafile = true
 
 [[files]]
+file = "mods/recipe-cache.toml"
+hash = "cd4b936dd60465bd7ab3f739a233bcf770d0a7d0bc7b3ef96292b6bf9348ad3d"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "323d51fa4929b7192311a6d3f73586efa3066f332c4e525ae0a652a854454fb9"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "cfcd4af65c0bfd1eb2bddc82df166883f19b6283ee65e7b5a19ecda2a2dd0a32"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.toml"
+hash = "03913aad4c0d66a78d5adeaf03d409a85a4d165fbcae9382965d2bb5b52fcaeb"
+metafile = true
+
+[[files]]
 file = "mods/sodium.toml"
 hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.toml"
+hash = "c9af5b176c6722fa13158bce2988241303d45a616619e33c1f254093e0de1204"
+metafile = true
+
+[[files]]
+file = "mods/vanessence.toml"
+hash = "c17f8079652e012db11059501e9710006dc5aa196d4f5c88e65fdd0777f5aa75"
+metafile = true
+
+[[files]]
+file = "mods/visuality.toml"
+hash = "93e59d5cce9ecae4dbf0bfaaa16c19e9db1953da2e4a5810bba8146185f48edc"
+metafile = true
+
+[[files]]
+file = "mods/wolves-with-armor.toml"
+hash = "f92cd294299c6bc053eeb34541c934879a0bc204d37d638de74574fc9a98f970"
 metafile = true

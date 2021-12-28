@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "temp/index.toml"
-hash = "5676c685dc9d1dd03248d83b8b520f35d59bb0d5099fd79e7d828f69bf0dd09d"
+hash = "c54131fa6a13558488ec538b4994c4e49125afba215a188a7be1bc5a7684188b"
 
 [[files]]
 file = "temp/mods/additional-bars-fabric.toml"
@@ -389,6 +389,10 @@ hash = "79600021b5a6b907a34e5653fdc686526d39ed7e109c0112cdc4fd2920a13dd1"
 [[files]]
 file = "temp/mods/appleskin.toml"
 hash = "253800067c95c8c871e047518277be6dea81fd91790e196158820d19d1e0d831"
+
+[[files]]
+file = "temp/mods/architectury-fabric.toml"
+hash = "dc5608b76a7cde5e7d13841995b191678bcbe8158648108a8f7878b22920ccbc"
 
 [[files]]
 file = "temp/mods/axolotl-bucket-fix.toml"
@@ -563,9 +567,41 @@ file = "temp/mods/presence-footsteps.toml"
 hash = "356c07fc9eeebf4cf29db1e08f32480cf1c4755d3132dbc65db53ea04053a8fe"
 
 [[files]]
+file = "temp/mods/recipe-cache.toml"
+hash = "cd4b936dd60465bd7ab3f739a233bcf770d0a7d0bc7b3ef96292b6bf9348ad3d"
+
+[[files]]
+file = "temp/mods/roughly-enough-items.toml"
+hash = "323d51fa4929b7192311a6d3f73586efa3066f332c4e525ae0a652a854454fb9"
+
+[[files]]
+file = "temp/mods/simple-voice-chat.toml"
+hash = "cfcd4af65c0bfd1eb2bddc82df166883f19b6283ee65e7b5a19ecda2a2dd0a32"
+
+[[files]]
+file = "temp/mods/skin-layers-3d.toml"
+hash = "03913aad4c0d66a78d5adeaf03d409a85a4d165fbcae9382965d2bb5b52fcaeb"
+
+[[files]]
 file = "temp/mods/sodium.toml"
 hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
 
 [[files]]
+file = "temp/mods/sound-physics-remastered.toml"
+hash = "c9af5b176c6722fa13158bce2988241303d45a616619e33c1f254093e0de1204"
+
+[[files]]
+file = "temp/mods/vanessence.toml"
+hash = "c17f8079652e012db11059501e9710006dc5aa196d4f5c88e65fdd0777f5aa75"
+
+[[files]]
+file = "temp/mods/visuality.toml"
+hash = "93e59d5cce9ecae4dbf0bfaaa16c19e9db1953da2e4a5810bba8146185f48edc"
+
+[[files]]
+file = "temp/mods/wolves-with-armor.toml"
+hash = "f92cd294299c6bc053eeb34541c934879a0bc204d37d638de74574fc9a98f970"
+
+[[files]]
 file = "temp/pack.toml"
-hash = "82a91390b19f7af64f4d761130612dc847f806a09079d0b1eeaf4b400736ed5e"
+hash = "12e76bf81c768b7b278e054e46e3245d13b5504aae78bdb1b0e6c5797bbc7ad8"
