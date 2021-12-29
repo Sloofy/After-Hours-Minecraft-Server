@@ -1,0 +1,13 @@
+name = "StitchedSnow"
+filename = "stitched-snow-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3537/323/stitched-snow-1.0.4.jar"
+hash-format = "murmur2"
+hash = "1917000120"
+
+[update]
+[update.curseforge]
+file-id = 3537323
+project-id = 430610

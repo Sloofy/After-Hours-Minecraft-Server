@@ -106,11 +106,6 @@ hash = "22478251efbefe2373847219b119db349cefcff114cfbe5107554d6ff41e7ec0"
 metafile = true
 
 [[files]]
-file = "mods/beaconoverhaul.toml"
-hash = "9631afc7f7ad9ca43b31be59a7cb8b58f08339f46c7afce4cd7b65ac489c3313"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.toml"
 hash = "628ee5a0eb26c46926c80bf43dacd2300a2bc722169c4d7aa2bb4892c77ad913"
 metafile = true
@@ -178,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/couplings.toml"
 hash = "06ab0f703732dbc14a73e18e367fe50af4e51978ac08f6557ba0eaf651ac0add"
-metafile = true
-
-[[files]]
-file = "mods/craftpresence.toml"
-hash = "e125a135d603d383e8e0570e73e14ed8588d0788167158d01c76436329176e3e"
 metafile = true
 
 [[files]]
@@ -421,6 +411,11 @@ hash = "b4c78204ffcb525aaaad628188cc1302782e54ca7c0b1646ec4d5933c5810cc0"
 metafile = true
 
 [[files]]
+file = "mods/sit.toml"
+hash = "5f3f076981255f3db09a7bc8f7d7c93498cfe21e4ba31e41535650be9f4d1b25"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.toml"
 hash = "03913aad4c0d66a78d5adeaf03d409a85a4d165fbcae9382965d2bb5b52fcaeb"
 metafile = true
@@ -458,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "c641a4f43b1c98bc9b7931306b55e83477233a4e33febf49ce7f9bebfa058872"
+metafile = true
+
+[[files]]
+file = "mods/stitchedsnow.toml"
+hash = "bd59c88e82d27d68a238bf599b702a0cd32a0fcd2c0c55c1b0c19412b8297310"
 metafile = true
 
 [[files]]
