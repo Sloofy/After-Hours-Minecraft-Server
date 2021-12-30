@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/bettersleeping_config.json"
+hash = "d25c33c0c697bb9975188e100144fa1e0507d82e22e164616f42ced47fac5d3a"
+
+[[files]]
 file = "config/yosbr/config/fabrication/block_logo.ini"
 hash = "1a58d3ffaaf266eb0f6f3574f15559689fa237be980a13b741834d640d9a8375"
 
@@ -59,6 +63,10 @@ hash = "2e14ac15db9760fc6d1631e511de4ce3dfbc93390cfd0a202eb7247444dd384c"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "e718fd3f41af608905b353db13470d25b1166cb660cb291dee00ef86dd53315a"
+
+[[files]]
+file = "datapacks/disable-op-recipes/data/minecraft/recipes/telesender_rail.json"
+hash = "8e2c40da45a36fb1b6eeb3e1d77e081c2b675252b5a3417574c712e6518238e3"
 
 [[files]]
 file = "mods/additional-additions.toml"
