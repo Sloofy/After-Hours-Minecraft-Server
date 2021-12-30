@@ -166,6 +166,11 @@ hash = "04c2491a789e9c39b304d10587b176c8191b857b1c755ee00b197e0790bb18eb"
 metafile = true
 
 [[files]]
+file = "mods/consistency.toml"
+hash = "bfc976493e503c27cb7fec3418803d7ba85738a550b3587855990efeda053462"
+metafile = true
+
+[[files]]
 file = "mods/continuity.toml"
 hash = "c39a0cc43a6722cfff7bc8c90233da3757551becf1b4dacc4e425ae0cefaf2d4"
 metafile = true
