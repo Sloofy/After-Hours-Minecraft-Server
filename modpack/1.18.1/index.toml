@@ -65,6 +65,10 @@ file = "config/yosbr/options.txt"
 hash = "e718fd3f41af608905b353db13470d25b1166cb660cb291dee00ef86dd53315a"
 
 [[files]]
+file = "datapacks/disable-op-recipes/data/minecraft/advancements/recipes/redstone/telesender_rail.json"
+hash = "c81ea638edc9b80db06ac12eef11bda3e07567cfde8a44f30553c4c428e109e8"
+
+[[files]]
 file = "datapacks/disable-op-recipes/data/minecraft/recipes/telesender_rail.json"
 hash = "8e2c40da45a36fb1b6eeb3e1d77e081c2b675252b5a3417574c712e6518238e3"
 
@@ -80,7 +84,12 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.toml"
-hash = "79600021b5a6b907a34e5653fdc686526d39ed7e109c0112cdc4fd2920a13dd1"
+hash = "4f04825e735dd3b41398223ed2c3e5144846e2a97a7d54d2c7fa2d297c9b08ce"
+metafile = true
+
+[[files]]
+file = "mods/animatica.toml"
+hash = "509a6b36ee65f458986dd19eb09b4c5f5feda7a976937a3cb6dfe4fee095797c"
 metafile = true
 
 [[files]]
@@ -95,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "dc5608b76a7cde5e7d13841995b191678bcbe8158648108a8f7878b22920ccbc"
+hash = "ab7dc9a0daeae0abe6ed06d7a52e66913d1dc5babbafc622504f9641e9dfd765"
 metafile = true
 
 [[files]]
@@ -149,6 +158,11 @@ hash = "eef7bb485e3256f64c611371f1ae5df7606929cc22b7a9d510c8c3adb542bd2d"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.toml"
+hash = "0267ed3b0f26a6a3b4cb59756beba5b93b6ba85ff356da35aff3e4bb73c9f06f"
+metafile = true
+
+[[files]]
 file = "mods/cleancut.toml"
 hash = "0b4442cfc298e15261c9dfd17baab7e869c5201fc61ca81d739e1cf9ce9052a6"
 metafile = true
@@ -166,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.toml"
 hash = "ad213896f2aadffb419b70ff4c82233c0c511f628d31dbb37f7738be99c259e7"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.toml"
+hash = "c1c4f73e371a2682b1609322a3ba1af39fe8ca7d60e2366f3c07b045cbb1d7ac"
 metafile = true
 
 [[files]]
@@ -191,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/croptopia-fabric.toml"
 hash = "f2e1ffa663efbe9525da19b765747036ebf0c5ee0aa8dd80fbe941ef14c9bc78"
+metafile = true
+
+[[files]]
+file = "mods/custom-entity-models-cem.toml"
+hash = "d7b04dc33616ec7168a1b4c1c4a7617cb2526c830dc4457ee7972f5145419b0a"
 metafile = true
 
 [[files]]
@@ -330,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "9b6ae1f491e5db99c57f0fca6da4db2bd999bf8bda287cf60cf861dd3d18fa49"
+hash = "220ab04d4b6e98672a143f8761e6044ecdd6190036e1248638e940d46fcb7c97"
 metafile = true
 
 [[files]]
@@ -391,6 +415,11 @@ metafile = true
 [[files]]
 file = "mods/on-soul-fire.toml"
 hash = "4329dba71490aea1c7bac690c4f070a92b7372b32740a2fd5d476b0fb8ee79f6"
+metafile = true
+
+[[files]]
+file = "mods/ost-overhaul.toml"
+hash = "162f7009a4dc7e1aa9d2a7815dad9f219a93ad22b97d11a283d3d9381bffe228"
 metafile = true
 
 [[files]]
@@ -495,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.toml"
-hash = "93e59d5cce9ecae4dbf0bfaaa16c19e9db1953da2e4a5810bba8146185f48edc"
+hash = "adb607b99658a223d7832d0288efbeecfc07659eabb267bd3244feb924d63708"
 metafile = true
 
 [[files]]
