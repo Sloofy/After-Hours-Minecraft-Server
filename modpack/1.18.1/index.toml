@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "ab7dc9a0daeae0abe6ed06d7a52e66913d1dc5babbafc622504f9641e9dfd765"
+hash = "5c87334b84ed36f60b1729c24daabf8975c2f1062bde04429c38d893c27da13b"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "2a81f47d036f74231933373da01a412659efdce4a55338b9e15c943b92037ab0"
+hash = "bd53cbab3e16cd82574896ece00b98fbd2fe77263563f66f1b4441423d02b4be"
 metafile = true
 
 [[files]]
@@ -430,11 +430,6 @@ metafile = true
 [[files]]
 file = "mods/recipe-cache.toml"
 hash = "cd4b936dd60465bd7ab3f739a233bcf770d0a7d0bc7b3ef96292b6bf9348ad3d"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.toml"
-hash = "323d51fa4929b7192311a6d3f73586efa3066f332c4e525ae0a652a854454fb9"
 metafile = true
 
 [[files]]
