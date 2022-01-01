@@ -418,11 +418,6 @@ hash = "4329dba71490aea1c7bac690c4f070a92b7372b32740a2fd5d476b0fb8ee79f6"
 metafile = true
 
 [[files]]
-file = "mods/ost-overhaul.toml"
-hash = "162f7009a4dc7e1aa9d2a7815dad9f219a93ad22b97d11a283d3d9381bffe228"
-metafile = true
-
-[[files]]
 file = "mods/polymorph-fabric.toml"
 hash = "6bd23949faca25d09e3d1b1a092f5688d4eeb821ab70171d2b980a57e2926018"
 metafile = true
