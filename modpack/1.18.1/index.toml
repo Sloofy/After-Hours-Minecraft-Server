@@ -358,11 +358,6 @@ hash = "220ab04d4b6e98672a143f8761e6044ecdd6190036e1248638e940d46fcb7c97"
 metafile = true
 
 [[files]]
-file = "mods/lambdacontrols.toml"
-hash = "bd2a345ad621af0d2a5e496257279fb9b13d288a00f9647f4ec144d233433414"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.toml"
 hash = "2b0756538b98e29702e74d8f194b70eb8c472fa086e5a3084d903347cef4d623"
 metafile = true
