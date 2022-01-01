@@ -26,9 +26,10 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache) - Caches crafting and furnace recipes to reduce lag on bulk exchanges.
 
 ## Bug Fixes
-* [Fabrification](https://www.curseforge.com/minecraft/mc-mods/fabrication) - Various tweaks and small features.
+* [Fabrication](https://www.curseforge.com/minecraft/mc-mods/fabrication) - Various tweaks and small features.
 * [Illegal Stack Fixer](https://www.curseforge.com/minecraft/mc-mods/illegal-stack-fixer) - Detects invalid stacks from chests-like blocks and entities with storage upon any non-creative player opening the inventory.
 * [On Soul Fire](https://www.curseforge.com/minecraft/mc-mods/on-soul-fire) - Gives soul fire actual unique properties, like rendering a blue flame.
+* [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) - Increase attribute caps.
 
 ## System Administration
 * [LuckPerms](https://github.com/lucko/LuckPerms) - Management of server permissions.
@@ -49,6 +50,8 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) - Attacking entities takes priority over cutting grass.
 * [Dual Riders](https://www.curseforge.com/minecraft/mc-mods/dual-riders) - Saddle up with two people on a horse!
 * [Snow Under Trees for Fabric](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric) - Cold biomes will allow for snow underneath trees.
+* [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) - Clumps XP into one large orb than many smaller individual orbs.
+* [Companion](https://www.curseforge.com/minecraft/mc-mods/companion-fabric) - Adds features to avoid losing pets so easily.
 
 ## Gameplay Features
 * [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - Enables proximity voice chat.
@@ -67,6 +70,12 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish) - Overhauls fishing and adds new content, to boot! 
 * [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric) - New jobs, trades, and workbenches! 
 * [Grim's Transportables](https://www.curseforge.com/minecraft/mc-mods/grims-transportables) - Adds rideable carriages and new rail types.
+* [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions) - New items to experiment with for underused vanilla features.
+* [BetterSleeping Revived](https://www.curseforge.com/minecraft/mc-mods/bettersleeping-revived) - Buffs for sleeping and vote to skip the night.
+* [Consistency+](https://www.curseforge.com/minecraft/mc-mods/consistency) - More block variants for more types (ex. endstone stairs, polished white terracotta slabs, etc).
+* [Firework Frenzy](https://www.curseforge.com/minecraft/mc-mods/firework-frenzy) - Rocket jumping with crossbow, and more balance changes (to crossbows).
+* [Wandering Collector](https://www.curseforge.com/minecraft/mc-mods/wandering-collector) - Once your items despawn, they will be tradable back to you from the Wandering Villager -- for a price.
+* [Wolves with Armour](https://www.curseforge.com/minecraft/mc-mods/wolves-with-armor) - Allows for craftable wolf armour.
 
 ## Cosmetic
 ### Visual
@@ -93,7 +102,7 @@ Go to [server mods list](https://github.com/Sloofy/After-Hours-Minecraft-Server/
 * [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) - Animated texture support.
 * [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) - Custom item texture support.
 * [Colormatica](https://www.curseforge.com/minecraft/mc-mods/colormatic) - Custom colour support.
-* [ConnectedTexturesMod for Fabric](https://www.curseforge.com/minecraft/mc-mods/ctm-fabric) - Connected textures support.
+* [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) - Connected textures support.
 * [Custom Entity Models (CEM)](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) - Custom entity models support.
 * [MinecraftCapes Mod](https://www.curseforge.com/minecraft/mc-mods/minecraftcapes-mod) - Custom capes support.
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) - Dynamic lights.
