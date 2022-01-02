@@ -65,12 +65,16 @@ file = "config/yosbr/options.txt"
 hash = "e718fd3f41af608905b353db13470d25b1166cb660cb291dee00ef86dd53315a"
 
 [[files]]
-file = "datapacks/disable-op-recipes/data/minecraft/advancements/recipes/redstone/telesender_rail.json"
+file = "datapacks/disable-tp-rails/data/minecraft/advancements/recipes/redstone/telesender_rail.json"
 hash = "c81ea638edc9b80db06ac12eef11bda3e07567cfde8a44f30553c4c428e109e8"
 
 [[files]]
-file = "datapacks/disable-op-recipes/data/minecraft/recipes/telesender_rail.json"
+file = "datapacks/disable-tp-rails/data/minecraft/recipes/telesender_rail.json"
 hash = "8e2c40da45a36fb1b6eeb3e1d77e081c2b675252b5a3417574c712e6518238e3"
+
+[[files]]
+file = "datapacks/disable-tp-rails/pack.mcmeta"
+hash = "ce458bb6a313f0b14186e42d4e82e655162d9d9c7ba04efd1cb0dca327a902cd"
 
 [[files]]
 file = "mods/additional-additions.toml"
@@ -123,18 +127,8 @@ hash = "22478251efbefe2373847219b119db349cefcff114cfbe5107554d6ff41e7ec0"
 metafile = true
 
 [[files]]
-file = "mods/bclib.toml"
-hash = "420c11472125f13e4b34e79499564b36d9698fa5f9f88fff23ef1badf199a811"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.toml"
 hash = "628ee5a0eb26c46926c80bf43dacd2300a2bc722169c4d7aa2bb4892c77ad913"
-metafile = true
-
-[[files]]
-file = "mods/betterend.toml"
-hash = "b876dede98e12eb7c5d357a116c1e402a830ef8f767ef19547693cbb3c681f77"
 metafile = true
 
 [[files]]
