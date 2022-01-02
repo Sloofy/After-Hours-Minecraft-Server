@@ -1,13 +1,13 @@
 name = "Croptopia [FABRIC/FORGE]"
-filename = "Croptopia-1.18-FABRIC-1.7.4.jar"
+filename = "Croptopia-1.18-FABRIC-1.8.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3569/896/Croptopia-1.18-FABRIC-1.7.4.jar"
+url = "https://edge.forgecdn.net/files/3590/391/Croptopia-1.18-FABRIC-1.8.0.jar"
 hash-format = "murmur2"
-hash = "2016220614"
+hash = "1696913573"
 
 [update]
 [update.curseforge]
-file-id = 3569896
+file-id = 3590391
 project-id = 415438

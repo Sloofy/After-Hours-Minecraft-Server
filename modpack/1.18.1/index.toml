@@ -123,8 +123,18 @@ hash = "22478251efbefe2373847219b119db349cefcff114cfbe5107554d6ff41e7ec0"
 metafile = true
 
 [[files]]
+file = "mods/bclib.toml"
+hash = "420c11472125f13e4b34e79499564b36d9698fa5f9f88fff23ef1badf199a811"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.toml"
 hash = "628ee5a0eb26c46926c80bf43dacd2300a2bc722169c4d7aa2bb4892c77ad913"
+metafile = true
+
+[[files]]
+file = "mods/betterend.toml"
+hash = "b876dede98e12eb7c5d357a116c1e402a830ef8f767ef19547693cbb3c681f77"
 metafile = true
 
 [[files]]
@@ -209,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia-fabric.toml"
-hash = "f2e1ffa663efbe9525da19b765747036ebf0c5ee0aa8dd80fbe941ef14c9bc78"
+hash = "4dab13f9875dffa1889c7392ef196cb46d246184964bf4644bcbfbc67b7e102c"
 metafile = true
 
 [[files]]
@@ -435,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.toml"
 hash = "b4c78204ffcb525aaaad628188cc1302782e54ca7c0b1646ec4d5933c5810cc0"
+metafile = true
+
+[[files]]
+file = "mods/sit-fabric.toml"
+hash = "7a3ff5d89130ac075b991d572053820d55bd496a08548abb7f5cec8046b9191e"
 metafile = true
 
 [[files]]
