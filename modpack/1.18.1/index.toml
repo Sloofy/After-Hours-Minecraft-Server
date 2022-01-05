@@ -22,7 +22,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/yosbr/config/fabrication/features.ini"
-hash = "d68ae59354f7886e1bbd0afa1970e86a1f671b5e50d6ea16633d797e780c0c98"
+hash = "d1bb5a64b9dc270905b160f7e6e27f4b32ca28b11241717246aa36086e7db3b1"
 
 [[files]]
 file = "config/yosbr/config/fabrication/fscript.ini"
@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.toml"
-hash = "509a6b36ee65f458986dd19eb09b4c5f5feda7a976937a3cb6dfe4fee095797c"
+hash = "c4cec0badc05f9c2945d03606d482b512abdac912502236dd1f4c3eef48421d6"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/colormatic.toml"
-hash = "c1c4f73e371a2682b1609322a3ba1af39fe8ca7d60e2366f3c07b045cbb1d7ac"
+hash = "2c4245d20eeb865f12b185a5f0b165d97d10e5f087192488e4e4a8329b4039f9"
 metafile = true
 
 [[files]]
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "1cba7ffaf01ed4ca7f2cb06133963ed3d574376d4f03012dfa1c584539d5603d"
+hash = "7440c32952d475bef0bf434b9491c3679c78df56781d083d08ec26bb354b8901"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastopenlinksandfolders.toml"
-hash = "43fdcfbe3d14e724bf3c5a37bda4648677b511a296797ae377573308297c5a62"
+hash = "2a1b908703ce72329a592fc713da7a1389b520b431c3946a93f2f3b3234a16af"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "465afb925dc6ee39704b7456750b7ada5d1000b951faadfab590efb4c5342049"
+hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
 metafile = true
 
 [[files]]
@@ -417,8 +417,13 @@ hash = "4329dba71490aea1c7bac690c4f070a92b7372b32740a2fd5d476b0fb8ee79f6"
 metafile = true
 
 [[files]]
+file = "mods/patchouli-fabric.toml"
+hash = "0fe48729e9ef6e97753ca84ad59e87960b1d1440a00f6803ade27069a06bb43b"
+metafile = true
+
+[[files]]
 file = "mods/polymorph-fabric.toml"
-hash = "6bd23949faca25d09e3d1b1a092f5688d4eeb821ab70171d2b980a57e2926018"
+hash = "dab67e23c2289fab530310f75520b42163b12c12a9ab3a2efc4c608c21911325"
 metafile = true
 
 [[files]]
@@ -437,8 +442,13 @@ hash = "cd4b936dd60465bd7ab3f739a233bcf770d0a7d0bc7b3ef96292b6bf9348ad3d"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "323d51fa4929b7192311a6d3f73586efa3066f332c4e525ae0a652a854454fb9"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "b4c78204ffcb525aaaad628188cc1302782e54ca7c0b1646ec4d5933c5810cc0"
+hash = "dca8590ff7993529de0e698e9266111fe9c711b66b6545d916be5715de82e205"
 metafile = true
 
 [[files]]
