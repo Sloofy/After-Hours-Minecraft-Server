@@ -1,0 +1,13 @@
+name = "DashLoader"
+filename = "dashloader-def-3.0-rc11-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3553/491/dashloader-def-3.0-rc11-1.18.jar"
+hash-format = "murmur2"
+hash = "4264957247"
+
+[update]
+[update.curseforge]
+file-id = 3553491
+project-id = 472772

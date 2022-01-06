@@ -127,8 +127,18 @@ hash = "22478251efbefe2373847219b119db349cefcff114cfbe5107554d6ff41e7ec0"
 metafile = true
 
 [[files]]
+file = "mods/bclib.toml"
+hash = "1ebbda6b2735144dd35a0148adab5bc6f2e7757ac5cd9138af7323193418a7ae"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.toml"
 hash = "628ee5a0eb26c46926c80bf43dacd2300a2bc722169c4d7aa2bb4892c77ad913"
+metafile = true
+
+[[files]]
+file = "mods/betterend.toml"
+hash = "b876dede98e12eb7c5d357a116c1e402a830ef8f767ef19547693cbb3c681f77"
 metafile = true
 
 [[files]]
@@ -219,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/custom-entity-models-cem.toml"
 hash = "d7b04dc33616ec7168a1b4c1c4a7617cb2526c830dc4457ee7972f5145419b0a"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.toml"
+hash = "a9bf24f3525ee15992c86830fcf2eed8e36b288d9cb40018dee5c8cab73794aa"
 metafile = true
 
 [[files]]
