@@ -212,6 +212,11 @@ hash = "bfc976493e503c27cb7fec3418803d7ba85738a550b3587855990efeda053462"
 metafile = true
 
 [[files]]
+file = "mods/continuity.toml"
+hash = "c39a0cc43a6722cfff7bc8c90233da3757551becf1b4dacc4e425ae0cefaf2d4"
+metafile = true
+
+[[files]]
 file = "mods/couplings.toml"
 hash = "06ab0f703732dbc14a73e18e367fe50af4e51978ac08f6557ba0eaf651ac0add"
 metafile = true
@@ -224,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/custom-entity-models-cem.toml"
 hash = "d7b04dc33616ec7168a1b4c1c4a7617cb2526c830dc4457ee7972f5145419b0a"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.toml"
+hash = "a9bf24f3525ee15992c86830fcf2eed8e36b288d9cb40018dee5c8cab73794aa"
 metafile = true
 
 [[files]]
@@ -263,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/extrasounds.toml"
-hash = "4db5f22340ec9e82efd66bb4bb076ce08b34b1b474d3861d056eeba7d6769d93"
+hash = "1d3a08b68147c4d79e49b0a4d5383e397c3c1d7811e7757a123b909fdee0bbbe"
 metafile = true
 
 [[files]]
@@ -333,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "50f041a37e93752f9cbce66206e23fc0e9994c7f4593f8c2892a3d9e226ac853"
+hash = "177d9e7706d685b7d8b8f964702aac4f9bd080687ee1496fc289f295056b8a23"
 metafile = true
 
 [[files]]
@@ -358,12 +368,17 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "9e072cfa7585d05a637e3433eb14fce82f679ebd74da94f46012e563833c8567"
+hash = "ffa430c24d8d6862b804c483a9070340fd3a89f858f8a5869b715534a06a04de"
 metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
 hash = "220ab04d4b6e98672a143f8761e6044ecdd6190036e1248638e940d46fcb7c97"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "2b0756538b98e29702e74d8f194b70eb8c472fa086e5a3084d903347cef4d623"
 metafile = true
 
 [[files]]
@@ -378,12 +393,17 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "8336f0e1553fb60080e1d0230a851711d268d72379e1377ebf040ae8faca3f7f"
+hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
 hash = "b07bf5cc07a80a89ad2bb4a149655a6f7f0d8684c7bc3fda6767040cb6c5b7b9"
+metafile = true
+
+[[files]]
+file = "mods/more-villagers-fabric.toml"
+hash = "95813110d0eccb725e6c79a75e91d5fb002fc541f748d1faa01aa94741da675a"
 metafile = true
 
 [[files]]
@@ -452,6 +472,11 @@ hash = "7711c856ac40136ed68cc0c8561ce31a568cbbdf27abd05508862b345673d736"
 metafile = true
 
 [[files]]
+file = "mods/sit.toml"
+hash = "5f3f076981255f3db09a7bc8f7d7c93498cfe21e4ba31e41535650be9f4d1b25"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.toml"
 hash = "03913aad4c0d66a78d5adeaf03d409a85a4d165fbcae9382965d2bb5b52fcaeb"
 metafile = true
@@ -478,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "5503fe0648bb3a63076467152d9a8acd1e8735118534d368cbfd6fd84bb4693c"
+hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
 metafile = true
 
 [[files]]
@@ -518,17 +543,12 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.toml"
-hash = "f8f6d4ddf3a30f1a88a65efe00f7fb82f9e3e706c5c9ea6d4de220effa12e4bb"
+hash = "adb607b99658a223d7832d0288efbeecfc07659eabb267bd3244feb924d63708"
 metafile = true
 
 [[files]]
 file = "mods/wandering-collector.toml"
 hash = "8b1e96ca1a79f91822afc4825451f87927f57cd67e782c0b41dc75439fc10657"
-metafile = true
-
-[[files]]
-file = "mods/waveycapes.toml"
-hash = "29e4208fe2c253ea42464f637d98f5382beab7ebf0a2cf6b8b31a3f14c276d21"
 metafile = true
 
 [[files]]

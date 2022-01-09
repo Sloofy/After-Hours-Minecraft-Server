@@ -1,13 +1,13 @@
 name = "ExtraSounds"
-filename = "extrasounds-2.2.0+1.18.jar"
-side = "both"
+filename = "extrasounds-2.1.1+1.18.jar"
+side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3583/585/extrasounds-2.2.0+1.18.jar"
-hash-format = "murmur2"
-hash = "1818978238"
+url = "https://cdn.modrinth.com/data/uPWCQrVL/versions/2.1.1+1.18/extrasounds-2.1.1+1.18.jar"
+hash-format = "sha512"
+hash = "5d438bdb1e5d8f1c32b74af7f0a034ee7ce8253c76739524467de81e61d0d48ac3c8faa944c98cb095aa08f36c15d11701588d45a2a2484926d2d99f063313c6"
 
 [update]
-[update.curseforge]
-file-id = 3583585
-project-id = 478890
+[update.modrinth]
+mod-id = "uPWCQrVL"
+version = "ZzllLdjb"

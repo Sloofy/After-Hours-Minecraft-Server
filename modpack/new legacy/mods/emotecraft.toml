@@ -1,0 +1,13 @@
+name = "Emotecraft (Fabric)"
+filename = "emotecraft-for-MC1.17.1-2.1-SNAPSHOT-build.10-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3571/285/emotecraft-for-MC1.17.1-2.1-SNAPSHOT-build.10-fabric.jar"
+hash-format = "murmur2"
+hash = "3719778244"
+
+[update]
+[update.curseforge]
+file-id = 3571285
+project-id = 397809

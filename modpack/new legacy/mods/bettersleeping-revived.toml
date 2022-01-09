@@ -1,0 +1,13 @@
+name = "BetterSleeping Revived"
+filename = "bettersleeping-0.5.1+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3549/539/bettersleeping-0.5.1+1.18.jar"
+hash-format = "murmur2"
+hash = "3631784611"
+
+[update]
+[update.curseforge]
+file-id = 3549539
+project-id = 552358

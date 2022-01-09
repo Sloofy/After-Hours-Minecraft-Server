@@ -1,0 +1,13 @@
+name = "Visuality"
+filename = "visuality-0.4.0-1.18-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/1.18-0.4.0-fabric/visuality-0.4.0-1.18-fabric.jar"
+hash-format = "sha512"
+hash = "484cf3908855c52fe1b64a6ac9d5a6299af239fae2ffacdd49ca0599cf9dcb8a494868d9fbd714673ae405ce02199d663e1cfec8bcf8b4a65932aaff304d997f"
+
+[update]
+[update.modrinth]
+mod-id = "rI0hvYcd"
+version = "8u0CYO74"

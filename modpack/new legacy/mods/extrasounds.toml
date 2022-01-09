@@ -1,0 +1,13 @@
+name = "ExtraSounds"
+filename = "extrasounds-2.2.0+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3583/585/extrasounds-2.2.0+1.18.jar"
+hash-format = "murmur2"
+hash = "1818978238"
+
+[update]
+[update.curseforge]
+file-id = 3583585
+project-id = 478890

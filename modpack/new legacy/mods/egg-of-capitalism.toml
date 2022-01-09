@@ -1,0 +1,13 @@
+name = "Egg Of Capitalism"
+filename = "egg-of-capitalism-mc1.18-3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3570/755/egg-of-capitalism-mc1.18-3.0.jar"
+hash-format = "murmur2"
+hash = "2022274336"
+
+[update]
+[update.curseforge]
+file-id = 3570755
+project-id = 490007

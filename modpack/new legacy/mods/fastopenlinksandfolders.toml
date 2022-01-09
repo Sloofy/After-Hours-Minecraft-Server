@@ -1,0 +1,13 @@
+name = "FastOpenLinksAndFolders"
+filename = "fastopenlinksandfolders-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3590/993/fastopenlinksandfolders-1.0.1.jar"
+hash-format = "murmur2"
+hash = "3808314323"
+
+[update]
+[update.curseforge]
+file-id = 3590993
+project-id = 513840

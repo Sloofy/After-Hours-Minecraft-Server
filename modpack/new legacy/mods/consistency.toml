@@ -1,0 +1,13 @@
+name = "Consistency+"
+filename = "consistency_plus-0.4.3+1.18-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3578/859/consistency_plus-0.4.3+1.18-fabric.jar"
+hash-format = "murmur2"
+hash = "1748311001"
+
+[update]
+[update.curseforge]
+file-id = 3578859
+project-id = 430445
