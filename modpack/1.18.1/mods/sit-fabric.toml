@@ -1,13 +1,13 @@
 name = "Sit (Fabric)"
-filename = "sit-1.18.1-16.jar"
+filename = "sit-1.18.1-15.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3598/393/sit-1.18.1-16.jar"
+url = "https://edge.forgecdn.net/files/3578/600/sit-1.18.1-15.jar"
 hash-format = "murmur2"
-hash = "3916967444"
+hash = "349519068"
 
 [update]
 [update.curseforge]
-file-id = 3598393
+file-id = 3578600
 project-id = 328163
