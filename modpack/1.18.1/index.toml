@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/bountiful-fabric.toml"
-hash = "cfef23bb4d24b8d5019556770374b22c0a5865bdc5e959ef034209ff6d2d3c99"
+hash = "cd9893480a3f8610275af8f8395b9c5c4fcebbefeabb1a3da9e4568e41a867e4"
 metafile = true
 
 [[files]]
@@ -483,12 +483,12 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.toml"
-hash = "a2097cc393eb81d7bd5738f0b247aebf624058e157f078ebd722283079286b7d"
+hash = "fafdff62c5305481d46c6e7990ebbf8781396f2bc5baada513ae0275d23b7a1d"
 metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "c641a4f43b1c98bc9b7931306b55e83477233a4e33febf49ce7f9bebfa058872"
+hash = "ba04c6dcfbf7def36b7b0d98331ba663a4a3044c1bba93770c27e548e7912480"
 metafile = true
 
 [[files]]
