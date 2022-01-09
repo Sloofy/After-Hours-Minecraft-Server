@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion-fabric.toml"
-hash = "04c2491a789e9c39b304d10587b176c8191b857b1c755ee00b197e0790bb18eb"
+hash = "3f772934d1dbc13442913e8b2faa75b07e99770a04051f29ca8530aaba2b124f"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "16cfbd80478e47ad53d383025c5fa8cb3360f8d186a0dfb44eb2ae6c973f9b2b"
+hash = "fd255090b8121a20465cb46482af2b3035507462f5540a90272c8ae8fbc8e08f"
 metafile = true
 
 [[files]]
@@ -463,12 +463,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "dca8590ff7993529de0e698e9266111fe9c711b66b6545d916be5715de82e205"
+hash = "7a241ea37a4caabf4ebae173e14a45fee56a41a063f8a904aad3c49f301b77c2"
 metafile = true
 
 [[files]]
 file = "mods/sit-fabric.toml"
-hash = "7a3ff5d89130ac075b991d572053820d55bd496a08548abb7f5cec8046b9191e"
+hash = "7711c856ac40136ed68cc0c8561ce31a568cbbdf27abd05508862b345673d736"
 metafile = true
 
 [[files]]
