@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/kambrik.toml"
-hash = "e39d2fb6e9834ae31831820662e521eb1e225efb2140a2205a229818f17858d5"
+hash = "bf33fa0a2b955200e734ebab0c67c27f8db11a1828bbf8c46b21457ac95936f3"
 metafile = true
 
 [[files]]
