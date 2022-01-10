@@ -212,6 +212,11 @@ hash = "bfc976493e503c27cb7fec3418803d7ba85738a550b3587855990efeda053462"
 metafile = true
 
 [[files]]
+file = "mods/continuity.toml"
+hash = "c39a0cc43a6722cfff7bc8c90233da3757551becf1b4dacc4e425ae0cefaf2d4"
+metafile = true
+
+[[files]]
 file = "mods/couplings.toml"
 hash = "06ab0f703732dbc14a73e18e367fe50af4e51978ac08f6557ba0eaf651ac0add"
 metafile = true
