@@ -197,11 +197,6 @@ hash = "ad213896f2aadffb419b70ff4c82233c0c511f628d31dbb37f7738be99c259e7"
 metafile = true
 
 [[files]]
-file = "mods/colormatic.toml"
-hash = "2c4245d20eeb865f12b185a5f0b165d97d10e5f087192488e4e4a8329b4039f9"
-metafile = true
-
-[[files]]
 file = "mods/companion-fabric.toml"
 hash = "3f772934d1dbc13442913e8b2faa75b07e99770a04051f29ca8530aaba2b124f"
 metafile = true
